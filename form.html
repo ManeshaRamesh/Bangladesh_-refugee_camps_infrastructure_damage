@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 	add libraries and links to stylesheets
+ --><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<link rel = "stylesheet" type = "text/css" href = "style.css" />
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<title></title>
+</head>
+<body>
+<!-- 	Header (constant for the entire website)
+ --><div class = "main-container container">
+		<div class = "row navbar header">
+			<div class = "col-12">
+				<h1> Predicted Infrastructure Damage in Cox's Bazar refugee camps during the 2018 monsoons</h1>
+			</div>
+		</div>
+		<div class = "row navbar header sub">
+			By Manesha Ramesh <br>
+			Date: 26 October 2018
+		</div>
+		<div class = "row">
+			<!-- Title -->
+			<div class =" col-12 content" style = "margin-top: 20px;">
+					<!-- URL to the database -->
+						<p class = "name"><b>URL of the dataset:</b> https://data.humdata.org/dataset/kutupalong-infrastructure-risk-to-flood-and-landslide-hazards </p>
+
+						<p class = "summary"><b>Summary:</b></p>
+						<p class = "summary">This dataset holds information about the facilities in the refugee settlement of Cox's Bazar, Bangladesh. In particular, it provides information regarding the Natural Disaster Risk of each of the facilities avilable in the settlement in this ongoing monsoon. This dataset was obtained from the Humanitarian Data Exchange which is administered by The United Nations.This information can help local as well as international resetllment aid groups in Bangladesh easily plan out their target areas and populations. By hosting this information on a website and providing relevant filters, these aid groups could easily categorize their target groups, areas and facilities. The website displays the Unique Id for each facility (important for aid groups to know which facility exactly among the many), the type of facility, the name of the camp it is located in, the source of funding and whether it is threatened by any natural disasters. For example, if the user wishes to search for Mosques that are at risk of getting damaged, the appropriate filters can be used to obtain the desired results. Some user-friendly sorting options are provided as well. </p>
+
+						<form class = "form-data" method = "POST" action = "datadisplay.py">
+							<div class = "row">
+								<div class = "col-6">
+								<!-- First dropdown list -->
+								<p>Select the facility you want to view:</p>
+									<select name= "facility">
+										<option value = "ALL">All</option>
+										<option value = "CF">Child Friendly Space</option>
+										<option value = "CC">Community Centre</option>
+										<option value = "DC">Distribution Center</option>
+										<option value = "FO">Field Office</option>
+										<option value = "IH">Info Hub/Point/Desk</option>
+										<option value = "MD">Madrassah</option>
+										<option value = "MQ">Mosque</option>
+										<option value = "WF">Women's Friendly Space</option>
+									</select>
+								</div>
+								<div class = "col-6">
+								<!-- Second dropdown list -->
+								<p> What do you wish to sort it by?</p>
+									<select name = "sort">
+										<option value = "camps_unique_id">Unique ID</option>
+										<option value = "camps_campname">Camp Name</option>
+										<option value = "camps_funding">Source of Funding</option>
+									</select>
+								</div>
+							</div>
+							<div class = "row">
+								<div class = "col-6">
+									<!-- Third dropdown list -->
+									<p> What order do you wish to sort it by?</p>
+									<select name = "order">
+										<option value = "DESC">Descending</option>
+										<option value = "ASC">Ascending</option>
+									</select>
+								</div>
+								<div class = "col-6">
+									<!-- Four dropdown list -->
+									<p>Natural Disaster Risk status</p>
+									<select name = "risk">
+										<option value = "Yes">At Risk</option>
+										<option value = "No">Not at Risk</option>
+										<option value = "Both">Show Both</option>
+									</select>
+								</div>
+							</div>
+							<div class = "row">
+								<!-- Buttons -->
+								<div class = "col-12 buttons text-right">
+										<input type = "submit" value = "Submit">
+										<input type = "reset" value = "Cancel">
+								</div>
+							</div>
+						</form>
+			</div>
+
+			
+				
+	</div>
+
+</body>
+</html>

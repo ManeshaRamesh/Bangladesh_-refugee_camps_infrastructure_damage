@@ -1,0 +1,82 @@
+body{
+	margin: 10px;
+}
+
+/*CSS just assignment five*/
+.dataresult{
+	border: solid black 1px;
+	text-align: left;
+	float:center;
+	margin:auto;
+}
+
+.row .summary{
+	display: block;
+}
+.dataresult td{
+	border: solid black 1px;
+	text-align: left;
+	padding: 10px;
+	border: 1px solid green;
+}
+.form-data{
+	margin:auto;
+	width: 60%;
+}
+
+.form-data .row{
+	margin-bottom: 20px;
+}
+.form-data .row .buttons{
+	margin:auto;
+	float:center;
+	margin-right: 40px;
+}
+
+.form-data .row .buttons input{
+	background-color: black;
+	color: white;
+	border:none;
+	padding:10px 20px;
+}
+
+.form-data .row .buttons input:hover{
+	background-color: green;
+	color: white;
+	border:none;
+	padding:10px 20px;
+}
+
+
+/*css for teh header*/
+
+
+div.navbar, .header{
+	background-color: green;
+	color: black;
+}
+
+div.sub{
+	background-color: black;
+	color: white;
+}
+.assignments_navbar button{
+	color: white;
+	background-color: green;
+	border-style: none;
+}
+
+.assignments_navbar button:hover, .header{
+	background-color: rgb(11, 102, 35);
+}
+
+.collapsible_assignments{
+	background-color: black;
+	color:white;
+	padding:25px;
+}
+
+
+.home_page .content{
+	margin:2%;
+}

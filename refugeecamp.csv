@@ -1,0 +1,1052 @@
+FID,District,Upazila,Union,Settlement,Camp Name,Inter Sector Coordination Group Camp Name,Unique ID,Facility Code,Facility,Geographical Coordinates,Source of Funding,Implementing Partner,Landslide,Flood,Landslide Risk,Flood Risk,Risk of both,Risk of either
+0.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_1,MQ,Mosque,"(21.21224574,  92.1679680299999)",Private Donation,**,**,**,No,No,No,No
+1.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_CF_1,CF,Child Friendly Space,"(21.2125810699999,  92.16746224)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+2.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_1,MD,Madrassah,"(21.21039682,  92.16750261)",Private Donation,**,**,**,No,No,No,No
+3.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_2,MD,Madrassah,"(21.2059039399999,  92.1593896699999)",Local Government,**,**,**,No,No,No,No
+4.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_CF_2,CF,Child Friendly Space,"(21.2059305999999,  92.16004456)",Non-governmental Organization (United Nations),Mukti Ukaid Unicef,**,**,No,No,No,No
+5.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_2,MQ,Mosque,"(21.2041107599999,  92.1600602099999)",Local Government,**,**,**,No,No,No,No
+6.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_3,MQ,Mosque,"(21.2072509999999,  92.16507649)",Private Donation,**,**,**,No,No,No,No
+7.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_4,MQ,Mosque,"(21.2062251999999,  92.1641496999999)",Private Donation,**,**,**,No,No,No,No
+8.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_5,MQ,Mosque,"(21.20711018,  92.1662617199999)",Private Donation,**,**,**,No,No,No,No
+9.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_3,MD,Madrassah,"(21.20884993,  92.16731547)",Private Donation,**,**,**,No,No,No,No
+10.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_6,MQ,Mosque,"(21.2051590999999,  92.1621557299999)",Local Government,**,**,**,No,No,No,No
+11.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_1,MQ,Mosque,"(21.20507387,  92.16324722)",Local Government,**,**,**,No,No,No,No
+12.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_2,MQ,Mosque,"(21.2053119999999,  92.1669411)",Private Donation,**,**,**,No,No,No,No
+13.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_WF_1,WF,Women's Friendly Space,"(21.2066228,  92.1696192999999)",Non-governmental Organization (United Nations),Mukti Ukaid UNFPA,**,**,No,No,No,No
+14.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_3,MQ,Mosque,"(21.2015442999999,  92.1607621999999)",**,**,**,**,No,No,No,No
+15.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_4,MQ,Mosque,"(21.20772665,  92.1687418599999)",Private Donation,**,**,**,No,No,No,No
+16.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_DC_1,DC,Distribution Center,"(21.20714809,  92.16957592)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+17.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_1,MD,Madrassah,"(21.2050370999999,  92.1688235)",Self Made,**,**,**,No,No,No,No
+18.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_2,MD,Madrassah,"(21.2049341799999,  92.1672882099999)",Private Donation,**,**,**,No,No,No,No
+19.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_5,MQ,Mosque,"(21.2042329,  92.1613279999999)",Private Donation,**,**,**,No,No,No,No
+20.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_6,MQ,Mosque,"(21.2041028999999,  92.1621523)",Private Donation,**,**,**,No,No,No,No
+21.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_7,MQ,Mosque,"(21.2066601,  92.1701711999999)",**,**,**,**,No,No,No,No
+22.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_8,MQ,Mosque,"(21.20269167,  92.1626052299999)",**,**,**,**,No,No,No,No
+23.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_3,MD,Madrassah,"(21.20265458,  92.16260404)",**,**,**,**,No,No,No,No
+24.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_9,MQ,Mosque,"(21.2046346499999,  92.1679001899999)",Private Donation,**,**,**,No,No,No,No
+25.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_10,MQ,Mosque,"(21.2011423999999,  92.1638473999999)",Non-governmental Organization (United Nations),Other,-1.0,**,Yes,No,No,Yes
+26.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_11,MQ,Mosque,"(21.2033514799999,  92.1622760799999)",**,**,**,**,No,No,No,No
+27.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_4,MD,Madrassah,"(21.2008848,  92.1637441)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+28.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_12,MQ,Mosque,"(21.20293637,  92.16340067)",Private Donation,**,**,**,No,No,No,No
+29.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_DC_1,DC,Distribution Center,"(21.21396446,  92.1638911299999)",Non-governmental Organization (United Nations),Ukaid WFP Other,**,**,No,No,No,No
+30.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_FO_1,FO,Field Office,"(21.21494746,  92.1628784499999)",Non-governmental Organization (United Nations),Mukti,**,**,No,No,No,No
+31.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_DC_2,DC,Distribution Center,"(21.21503946,  92.1628032299999)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+32.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_1,MQ,Mosque,"(21.2149816099999,  92.1641491299999)",**,**,**,**,No,No,No,No
+33.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_DC_3,DC,Distribution Center,"(21.2151004199999,  92.16323835)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+34.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_DC_4,DC,Distribution Center,"(21.2134134199999,  92.16390886)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+35.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_2,MQ,Mosque,"(21.21323413,  92.16267757)",Local Government,**,**,**,No,No,No,No
+36.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_3,MQ,Mosque,"(21.2134174999999,  92.1636332)",Private Donation,**,**,**,No,No,No,No
+37.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_4,MQ,Mosque,"(21.2126632,  92.1617289999999)",Non-governmental Organization (United Nations),AlMidaadFoundation,**,**,No,No,No,No
+38.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_5,MQ,Mosque,"(21.2118390999999,  92.1608492)",Private Donation,**,**,**,No,No,No,No
+39.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_FO_2,FO,Field Office,"(21.2125907,  92.1637116999999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+40.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_CC_1,CC,Community Centre,"(21.2123579,  92.1636773999999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+41.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MD_1,MD,Madrassah,"(21.2126158499999,  92.16192967)",**,**,**,**,No,No,No,No
+42.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_6,MQ,Mosque,"(21.21252754,  92.16538104)",**,**,**,**,No,No,No,No
+43.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MD_2,MD,Madrassah,"(21.21183179,  92.16635311)",Private Donation,**,**,**,No,No,No,No
+44.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_7,MQ,Mosque,"(21.2108012899999,  92.1642715299999)",Private Donation,**,**,**,No,No,No,No
+45.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_CF_1,CF,Child Friendly Space,"(21.2108925699999,  92.1632650199999)",Non-governmental Organization (United Nations),SaveTheChildren UNHCR,**,**,No,No,No,No
+46.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_8,MQ,Mosque,"(21.2109209499999,  92.1621335499999)",Private Donation,**,**,**,No,No,No,No
+47.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MD_3,MD,Madrassah,"(21.21080282,  92.16206422)",Private Donation,**,**,**,No,No,No,No
+48.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MD_4,MD,Madrassah,"(21.2106631999999,  92.1642501999999)",Private Donation,**,**,**,No,No,No,No
+49.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_CF_2,CF,Child Friendly Space,"(21.2109318,  92.1633865)",Non-governmental Organization (United Nations),SaveTheChildren UNHCR,**,**,No,No,No,No
+50.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_CF_3,CF,Child Friendly Space,"(21.2113625,  92.1613988)",Non-governmental Organization (United Nations),SaveTheChildren UNHCR,**,**,No,No,No,No
+51.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_CF_4,CF,Child Friendly Space,"(21.2113401,  92.1613033)",Non-governmental Organization (United Nations),SaveTheChildren UNHCR,**,**,No,No,No,No
+52.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_9,MQ,Mosque,"(21.2106530999999,  92.1657814)",Private Donation,**,**,**,No,No,No,No
+53.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_IH_1,IH,Info Hub/ point/desk,"(21.2112364999999,  92.1664812)",**,**,**,**,No,No,No,No
+54.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MD_5,MD,Madrassah,"(21.2091080699999,  92.16658692)",**,**,**,**,No,No,No,No
+55.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_10,MQ,Mosque,"(21.20918091,  92.16656018)",**,**,**,**,No,No,No,No
+56.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_1,MQ,Mosque,"(21.1993835,  92.1522954999999)",Private Donation,**,**,**,No,No,No,No
+57.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_2,MQ,Mosque,"(21.1987710999999,  92.15384453)",Private Donation,**,**,**,No,No,No,No
+58.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_1,MD,Madrassah,"(21.21075647,  92.15143055)",**,**,**,-1.0,No,Yes,No,Yes
+59.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_2,MD,Madrassah,"(21.2109063199999,  92.15033631)",**,**,**,**,No,No,No,No
+60.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_1,MQ,Mosque,"(21.2158596999999,  92.1514073)",Private Donation,**,**,**,No,No,No,No
+61.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_2,MQ,Mosque,"(21.2154865,  92.1502672999999)",Private Donation,**,**,**,No,No,No,No
+62.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_DC_1,DC,Distribution Center,"(21.2160645999999,  92.1517788999999)",Local Government,**,**,**,No,No,No,No
+63.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_3,MQ,Mosque,"(21.2123096999999,  92.1538501999999)",Private Donation,**,**,**,No,No,No,No
+64.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_4,MQ,Mosque,"(21.2117276,  92.1544786999999)",**,**,**,**,No,No,No,No
+65.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_5,MQ,Mosque,"(21.212985,  92.1573934999999)",**,**,**,**,No,No,No,No
+66.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_6,MQ,Mosque,"(21.21663213,  92.14841606)",Private Donation,**,**,**,No,No,No,No
+67.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_DC_2,DC,Distribution Center,"(21.21461581,  92.1527456799999)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+68.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_1,MD,Madrassah,"(21.2134632,  92.1555733)",Local Government,**,**,**,No,No,No,No
+69.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_2,MD,Madrassah,"(21.21131164,  92.15708128)",Private Donation,**,**,**,No,No,No,No
+70.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_3,MD,Madrassah,"(21.2153582999999,  92.1490701999999)",Private Donation,**,**,**,No,No,No,No
+71.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_7,MQ,Mosque,"(21.2160522,  92.1493904999999)",Private Donation,**,**,**,No,No,No,No
+72.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_DC_3,DC,Distribution Center,"(21.2158327,  92.15201716)",Non-governmental Organization (United Nations),ACF,**,**,No,No,No,No
+73.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_8,MQ,Mosque,"(21.2139382,  92.149292)",Private Donation,**,**,**,No,No,No,No
+74.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_9,MQ,Mosque,"(21.2139984599999,  92.1517802399999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+75.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_4,MD,Madrassah,"(21.21476402,  92.15284757)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+76.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_10,MQ,Mosque,"(21.2142857199999,  92.15033603)",Private Donation,**,**,**,No,No,No,No
+77.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_5,MD,Madrassah,"(21.21461236,  92.1527807899999)",Private Donation,**,**,**,No,No,No,No
+78.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_11,MQ,Mosque,"(21.21476505,  92.1528349)",Private Donation,**,**,**,No,No,No,No
+79.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_12,MQ,Mosque,"(21.21477733,  92.1531461099999)",Self Made,**,**,**,No,No,No,No
+80.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_1,CF,Child Friendly Space,"(21.21461723,  92.15350773)",Non-governmental Organization (United Nations),UNHCR Other,**,**,No,No,No,No
+81.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_6,MD,Madrassah,"(21.21431872,  92.1543456099999)",Self Made,**,**,**,No,No,No,No
+82.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_13,MQ,Mosque,"(21.2140029,  92.1557961599999)",Self Made,**,**,**,No,No,No,No
+83.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_14,MQ,Mosque,"(21.2135689899999,  92.15016009)",Private Donation,**,**,**,No,No,No,No
+84.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_7,MD,Madrassah,"(21.2135877099999,  92.15026726)",Private Donation,**,**,**,No,No,No,No
+85.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_15,MQ,Mosque,"(21.2138606299999,  92.1492420499999)",Private Donation,**,**,**,No,No,No,No
+86.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_8,MD,Madrassah,"(21.21391917,  92.1492775199999)",Private Donation,**,**,**,No,No,No,No
+87.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_2,CF,Child Friendly Space,"(21.212872,  92.1564127999999)",Non-governmental Organization (United Nations),COAST,**,**,No,No,No,No
+88.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_WF_1,WF,Women's Friendly Space,"(21.2136298,  92.1551750999999)",Non-governmental Organization (United Nations),Mukti UNFPA,**,**,No,No,No,No
+89.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_16,MQ,Mosque,"(21.2129559999999,  92.1569626999999)",Private Donation,**,**,**,No,No,No,No
+90.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_17,MQ,Mosque,"(21.2140092,  92.1557413)",Private Donation,**,**,**,No,No,No,No
+91.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_9,MD,Madrassah,"(21.2140038,  92.1557851999999)",Private Donation,**,**,**,No,No,No,No
+92.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_FO_1,FO,Field Office,"(21.2134275,  92.1551168)",Local Government,**,**,**,No,No,No,No
+93.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_18,MQ,Mosque,"(21.21194111,  92.1497932399999)",Private Donation,**,**,**,No,No,No,No
+94.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_3,CF,Child Friendly Space,"(21.2117776,  92.1520127)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+95.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_4,CF,Child Friendly Space,"(21.2120141,  92.1525821999999)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+96.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_19,MQ,Mosque,"(21.2122396,  92.1526587)",Private Donation,**,**,**,No,No,No,No
+97.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_10,MD,Madrassah,"(21.211652,  92.1527236)",Private Donation,**,**,**,No,No,No,No
+98.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_5,CF,Child Friendly Space,"(21.2117296,  92.1534482)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+99.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_11,MD,Madrassah,"(21.2127,  92.1536796)",Private Donation,**,**,**,No,No,No,No
+100.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_20,MQ,Mosque,"(21.2127576,  92.1532615999999)",Private Donation,**,**,**,No,No,No,No
+101.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_6,CF,Child Friendly Space,"(21.21247,  92.1528219)",Non-governmental Organization (United Nations),Unicef,-1.0,**,Yes,No,No,Yes
+102.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_21,MQ,Mosque,"(21.2119654,  92.1530494999999)",Private Donation,**,**,**,No,No,No,No
+103.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_22,MQ,Mosque,"(21.21173827,  92.1544468599999)",Private Donation,**,**,**,No,No,No,No
+104.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_7,CF,Child Friendly Space,"(21.21203466,  92.15523176)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+105.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_23,MQ,Mosque,"(21.2128301,  92.1573161999999)",**,**,**,**,No,No,No,No
+106.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_24,MQ,Mosque,"(21.21100637,  92.15107213)",**,**,**,-1.0,No,Yes,No,Yes
+107.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_12,MD,Madrassah,"(21.21158969,  92.15096407)",**,**,**,**,No,No,No,No
+108.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_25,MQ,Mosque,"(21.2115751999999,  92.1524402799999)",**,**,**,**,No,No,No,No
+109.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_13,MD,Madrassah,"(21.21149316,  92.1570179699999)",Private Donation,**,**,**,No,No,No,No
+110.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_14,MD,Madrassah,"(21.2108002199999,  92.155765)",Private Donation,**,**,**,No,No,No,No
+111.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_26,MQ,Mosque,"(21.21088243,  92.15553604)",Private Donation,**,**,**,No,No,No,No
+112.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_15,MD,Madrassah,"(21.2113456499999,  92.15674893)",Private Donation,**,**,**,No,No,No,No
+113.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_16,MD,Madrassah,"(21.21131459,  92.1569433699999)",,**,**,**,No,No,No,No
+114.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_27,MQ,Mosque,"(21.21088357,  92.1557978299999)",Private Donation,**,**,**,No,No,No,No
+115.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_17,MD,Madrassah,"(21.21096662,  92.1532353599999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+116.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_28,MQ,Mosque,"(21.2096437999999,  92.1521943)",Self Made,**,**,**,No,No,No,No
+117.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_18,MD,Madrassah,"(21.2096902999999,  92.1524224)",Self Made,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+118.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_29,MQ,Mosque,"(21.21019343,  92.15202877)",Local Government,**,**,**,No,No,No,No
+119.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_30,MQ,Mosque,"(21.2144002699999,  92.14884714)",Private Donation,**,**,**,No,No,No,No
+120.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_31,MQ,Mosque,"(21.2149332999999,  92.1479736)",Private Donation,**,**,**,No,No,No,No
+121.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_32,MQ,Mosque,"(21.2156759999999,  92.1483848)",Private Donation,**,**,**,No,No,No,No
+122.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_33,MQ,Mosque,"(21.210967,  92.1528734)",Private Donation,**,**,**,No,No,No,No
+123.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_34,MQ,Mosque,"(21.2113759,  92.1530039)",Private Donation,**,**,**,No,No,No,No
+124.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_1,MD,Madrassah,"(21.20426081,  92.1598846899999)",Self Made,**,**,-1.0,No,Yes,No,Yes
+125.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_2,MD,Madrassah,"(21.2052833,  92.1553866999999)",Private Donation,**,**,**,No,No,No,No
+126.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_CF_1,CF,Child Friendly Space,"(21.2030622,  92.1546454)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+127.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_1,MQ,Mosque,"(21.2036154,  92.1552348999999)",Private Donation,**,**,**,No,No,No,No
+128.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_3,MD,Madrassah,"(21.2027134599999,  92.1573057699999)",Private Donation,**,**,**,No,No,No,No
+129.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_2,MQ,Mosque,"(21.20261877,  92.1572094299999)",Private Donation,**,**,**,No,No,No,No
+130.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_3,MQ,Mosque,"(21.2051541,  92.1553765099999)",Private Donation,**,**,**,No,No,No,No
+131.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_4,MD,Madrassah,"(21.2012196,  92.1582872999999)",**,**,**,**,No,No,No,No
+132.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_4,MQ,Mosque,"(21.2011812,  92.1581046)",**,**,**,**,No,No,No,No
+133.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_5,MQ,Mosque,"(21.2037642099999,  92.15673974)",Private Donation,**,**,**,No,No,No,No
+134.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_6,MQ,Mosque,"(21.2020644,  92.1561951)",Private Donation,**,**,**,No,No,No,No
+135.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_7,MQ,Mosque,"(21.2054821,  92.1570624099999)",Private Donation,**,**,**,No,No,No,No
+136.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_1,MD,Madrassah,"(21.2004347899999,  92.1668571)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+137.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_2,MD,Madrassah,"(21.19833753,  92.1630430299999)",Private Donation,**,**,**,No,No,No,No
+138.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_3,MD,Madrassah,"(21.1983066499999,  92.1631065899999)",Private Donation,**,**,**,No,No,No,No
+139.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_1,MQ,Mosque,"(21.20005769,  92.16917103)",**,**,**,-1.0,No,Yes,No,Yes
+140.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_2,MQ,Mosque,"(21.1992906499999,  92.16617458)",Private Donation,**,**,**,No,No,No,No
+141.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_FO_1,FO,Field Office,"(21.20964841,  92.1574576499999)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+142.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_DC_1,DC,Distribution Center,"(21.2096279,  92.1553209)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+143.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_1,MD,Madrassah,"(21.2101936,  92.1574212999999)",**,**,**,**,No,No,No,No
+144.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_CF_1,CF,Child Friendly Space,"(21.2098155,  92.1575962)",Non-governmental Organization (United Nations),Brac Unicef Other,**,**,No,No,No,No
+145.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_1,MQ,Mosque,"(21.2098437,  92.1540346)",**,**,**,**,No,No,No,No
+146.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_DC_2,DC,Distribution Center,"(21.2101041399999,  92.1592735199999)",Non-governmental Organization (United Nations),WFP,**,-1.0,No,Yes,No,Yes
+147.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_2,MD,Madrassah,"(21.2100530899999,  92.16097317)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+148.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_3,MD,Madrassah,"(21.2086811,  92.1570623)",Self Made,**,**,**,No,No,No,No
+149.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_2,MQ,Mosque,"(21.20783532,  92.15696769)",Local Government,**,**,**,No,No,No,No
+150.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_3,MQ,Mosque,"(21.2069143,  92.1577853999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+151.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_4,MQ,Mosque,"(21.2067888999999,  92.1575542)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+152.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_5,MQ,Mosque,"(21.2069757,  92.1583884)",Private Donation,**,**,**,No,No,No,No
+153.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_CF_2,CF,Child Friendly Space,"(21.2077932,  92.1540202999999)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+154.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_6,MQ,Mosque,"(21.20858424,  92.1590022599999)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+155.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_1,MQ,Mosque,"(21.21911984,  92.1509158)",Private Donation,**,**,**,No,No,No,No
+156.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_1,MD,Madrassah,"(21.2191397299999,  92.1509549799999)",Private Donation,**,**,**,No,No,No,No
+157.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_2,MD,Madrassah,"(21.2190693999999,  92.1517962)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+158.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_3,MD,Madrassah,"(21.2199275999999,  92.1536351)",Private Donation,**,**,**,No,No,No,No
+159.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_4,MD,Madrassah,"(21.21139921,  92.15860293)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+160.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_2,MQ,Mosque,"(21.22232667,  92.1521116699999)",Private Donation,**,**,**,No,No,No,No
+161.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_1,CF,Child Friendly Space,"(21.221945,  92.15245667)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+162.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_3,MQ,Mosque,"(21.22129333,  92.15231)",Private Donation,**,**,**,No,No,No,No
+163.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_4,MQ,Mosque,"(21.2197651,  92.1509125)",Private Donation,**,**,**,No,No,No,No
+164.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_5,MQ,Mosque,"(21.2202711999999,  92.1502560999999)",Private Donation,**,**,**,No,No,No,No
+165.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_2,CF,Child Friendly Space,"(21.2198272999999,  92.151019)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+166.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_5,MD,Madrassah,"(21.2209250999999,  92.1530649999999)",Private Donation,**,**,**,No,No,No,No
+167.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_6,MD,Madrassah,"(21.21914294,  92.1510091699999)",Private Donation,**,**,**,No,No,No,No
+168.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_6,MQ,Mosque,"(21.2202662199999,  92.1542821)",Private Donation,**,**,**,No,No,No,No
+169.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_7,MQ,Mosque,"(21.2184874999999,  92.1511054)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+170.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_7,MD,Madrassah,"(21.2197375999999,  92.1533014999999)",Private Donation,**,**,**,No,No,No,No
+171.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_8,MQ,Mosque,"(21.2196314999999,  92.1533455)",Private Donation,**,**,**,No,No,No,No
+172.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_9,MQ,Mosque,"(21.2194015,  92.1527727999999)",**,**,**,**,No,No,No,No
+173.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_8,MD,Madrassah,"(21.2187738999999,  92.1533529999999)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+174.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_3,CF,Child Friendly Space,"(21.2188146,  92.1540777)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+175.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_9,MD,Madrassah,"(21.21820215,  92.15491683)",Private Donation,**,**,**,No,No,No,No
+176.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_4,CF,Child Friendly Space,"(21.21783391,  92.15653299)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+177.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_10,MD,Madrassah,"(21.21762674,  92.15719488)",Private Donation,**,**,**,No,No,No,No
+178.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_10,MQ,Mosque,"(21.2175924,  92.1566049)",Private Donation,**,**,**,No,No,No,No
+179.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_11,MQ,Mosque,"(21.21683197,  92.15483301)",Local Government,**,**,**,No,No,No,No
+180.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_12,MQ,Mosque,"(21.2163345899999,  92.1558236099999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+181.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_13,MQ,Mosque,"(21.2173304,  92.1529735999999)",Local Government,**,**,**,No,No,No,No
+182.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_14,MQ,Mosque,"(21.2162902,  92.1579313)",Private Donation,**,**,**,No,No,No,No
+183.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_15,MQ,Mosque,"(21.2166120999999,  92.1587954)",Private Donation,**,**,**,No,No,No,No
+184.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_16,MQ,Mosque,"(21.2157349,  92.1564084)",Private Donation,**,**,**,No,No,No,No
+185.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_17,MQ,Mosque,"(21.2151779,  92.1565635999999)",Private Donation,**,**,**,No,No,No,No
+186.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_18,MQ,Mosque,"(21.21592205,  92.15696289)",Private Donation,**,**,**,No,No,No,No
+187.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_DC_1,DC,Distribution Center,"(21.21470695,  92.1535986699999)",Non-governmental Organization (United Nations),RedCrescentSociety UNHCR,**,**,No,No,No,No
+188.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_IH_1,IH,Info Hub/ point/desk,"(21.2147138099999,  92.15357326)",Non-governmental Organization (United Nations),RedCrescentSociety UNHCR,**,**,No,No,No,No
+189.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_WF_1,WF,Women's Friendly Space,"(21.2141850299999,  92.15520035)",Non-governmental Organization (United Nations),UNFPA,**,**,No,No,No,No
+190.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_WF_2,WF,Women's Friendly Space,"(21.2144653199999,  92.15431667)",Non-governmental Organization (United Nations),Mukti UNFPA,**,**,No,No,No,No
+191.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_19,MQ,Mosque,"(21.2146395,  92.15761182)",Private Donation,**,**,**,No,No,No,No
+192.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_20,MQ,Mosque,"(21.21482097,  92.1573928499999)",Private Donation,**,**,**,No,No,No,No
+193.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_11,MD,Madrassah,"(21.21505629,  92.1576009799999)",Local Government,**,**,**,No,No,No,No
+194.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_21,MQ,Mosque,"(21.2141110799999,  92.1606553499999)",Private Donation,**,**,**,No,No,No,No
+195.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_DC_2,DC,Distribution Center,"(21.2135770999999,  92.1570109)",Non-governmental Organization (United Nations),Mukti WFP,**,**,No,No,No,No
+196.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_22,MQ,Mosque,"(21.2130322999999,  92.1578022)",Private Donation,**,**,**,No,No,No,No
+197.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_23,MQ,Mosque,"(21.2138309,  92.1566765999999)",Private Donation,**,**,**,No,No,No,No
+198.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_24,MQ,Mosque,"(21.2130386,  92.1578655)",Private Donation,**,**,**,No,No,No,No
+199.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_25,MQ,Mosque,"(21.2123132,  92.1602287)",Private Donation,**,**,**,No,No,No,No
+200.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_26,MQ,Mosque,"(21.21143925,  92.1586559099999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+201.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_12,MD,Madrassah,"(21.21559308,  92.15745278)",Private Donation,**,**,**,No,No,No,No
+202.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_27,MQ,Mosque,"(21.21584413,  92.1543173799999)",Private Donation,**,**,**,No,No,No,No
+203.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_7,MQ,Mosque,"(21.2081018099999,  92.1653164399999)",**,**,**,**,No,No,No,No
+204.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_8,MQ,Mosque,"(21.20741198,  92.1650876199999)",**,**,**,**,No,No,No,No
+205.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_4,MD,Madrassah,"(21.20743446,  92.1648620299999)",Private Donation,**,**,**,No,No,No,No
+206.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_9,MQ,Mosque,"(21.2064467999999,  92.1610038)",Private Donation,**,**,**,No,No,No,No
+207.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_5,MD,Madrassah,"(21.2064932,  92.1610993999999)",Private Donation,**,**,**,No,No,No,No
+208.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_6,MD,Madrassah,"(21.20601182,  92.1658839199999)",Local Government,**,**,**,No,No,No,No
+209.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MQ_10,MQ,Mosque,"(21.2070697999999,  92.1617219999999)",Local Government,**,**,**,No,No,No,No
+210.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_7,MD,Madrassah,"(21.206969,  92.161794)",Private Donation,**,**,**,No,No,No,No
+211.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_8,MD,Madrassah,"(21.2059447,  92.1593436999999)",**,**,**,**,No,No,No,No
+212.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2E,CXB-203,C2E_MD_9,MD,Madrassah,"(21.20582491,  92.1594247799999)",Private Donation,**,**,**,No,No,No,No
+213.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_13,MQ,Mosque,"(21.20142827,  92.16306563)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+214.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_14,MQ,Mosque,"(21.2047497,  92.1635895999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+215.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_15,MQ,Mosque,"(21.2026967699999,  92.16257876)",Private Donation,**,**,**,No,No,No,No
+216.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_16,MQ,Mosque,"(21.20018297,  92.1642795399999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+217.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_17,MQ,Mosque,"(21.20342441,  92.1635472199999)",Private Donation,**,**,**,No,No,No,No
+218.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_18,MQ,Mosque,"(21.2033652,  92.1636266699999)",**,**,**,**,No,No,No,No
+219.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_19,MQ,Mosque,"(21.2008733,  92.1604906999999)",**,**,**,-1.0,No,Yes,No,Yes
+220.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_5,MD,Madrassah,"(21.2042745,  92.1645651)",Private Donation,**,**,**,No,No,No,No
+221.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_20,MQ,Mosque,"(21.20438425,  92.1697221499999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+222.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_6,MD,Madrassah,"(21.20339353,  92.1636469999999)",**,**,**,**,No,No,No,No
+223.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_CF_1,CF,Child Friendly Space,"(21.20057834,  92.15996938)",**,**,**,-1.0,No,Yes,No,Yes
+224.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_21,MQ,Mosque,"(21.2001369,  92.1604701499999)",**,**,**,-1.0,No,Yes,No,Yes
+225.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_7,MD,Madrassah,"(21.20224829,  92.1632828099999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+226.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_8,MD,Madrassah,"(21.2047910199999,  92.17014054)",**,**,**,**,No,No,No,No
+227.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_22,MQ,Mosque,"(21.2046843299999,  92.1702650699999)",**,**,**,**,No,No,No,No
+228.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_9,MD,Madrassah,"(21.2015788,  92.1608013)",**,**,**,**,No,No,No,No
+229.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_10,MD,Madrassah,"(21.20146739,  92.16313311)",Private Donation,**,**,**,No,No,No,No
+230.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_11,MD,Madrassah,"(21.2033339699999,  92.1645805099999)",Self Made,**,**,**,No,No,No,No
+231.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_23,MQ,Mosque,"(21.2012886,  92.1645908999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+232.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_24,MQ,Mosque,"(21.20328778,  92.1646217899999)",Self Made,**,**,**,No,No,No,No
+233.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_12,MD,Madrassah,"(21.20331532,  92.16469729)",Self Made,**,-1.0,**,Yes,No,No,Yes
+234.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_25,MQ,Mosque,"(21.2005284,  92.15919816)",Private Donation,**,**,**,No,No,No,No
+235.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_26,MQ,Mosque,"(21.20216117,  92.16422993)",Private Donation,**,**,**,No,No,No,No
+236.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_13,MD,Madrassah,"(21.2029758199999,  92.16535004)",Private Donation,**,**,**,No,No,No,No
+237.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_14,MD,Madrassah,"(21.20209734,  92.16426703)",Private Donation,**,**,**,No,No,No,No
+238.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_27,MQ,Mosque,"(21.2029669,  92.1653093399999)",Private Donation,**,**,**,No,No,No,No
+239.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MD_15,MD,Madrassah,"(21.20285887,  92.1652830299999)",**,**,-1.0,**,Yes,No,No,Yes
+240.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_28,MQ,Mosque,"(21.2044226,  92.1666055999999)",Local Government,**,**,**,No,No,No,No
+241.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_29,MQ,Mosque,"(21.20234389,  92.16942337)",Private Donation,**,**,**,No,No,No,No
+242.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_30,MQ,Mosque,"(21.2007784,  92.1612712999999)",**,**,**,**,No,No,No,No
+243.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_31,MQ,Mosque,"(21.2058287,  92.1701647)",Private Donation,**,**,**,No,No,No,No
+244.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_32,MQ,Mosque,"(21.2032680499999,  92.16804467)",Private Donation,**,**,**,No,No,No,No
+245.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_FO_1,FO,Field Office,"(21.20370084,  92.16710822)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+246.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_DC_2,DC,Distribution Center,"(21.2035414399999,  92.16790742)",**,**,**,**,No,No,No,No
+247.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 7,CXB-207,C7_MQ_33,MQ,Mosque,"(21.1998265,  92.162295)",**,**,**,-1.0,No,Yes,No,Yes
+248.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_1,MQ,Mosque,"(21.1924847,  92.1617226)",Private Donation,**,**,**,No,No,No,No
+249.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_1,MD,Madrassah,"(21.19160943,  92.1569740099999)",Self Made,**,**,**,No,No,No,No
+250.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_2,MQ,Mosque,"(21.19345367,  92.1558792299999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+251.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_3,MQ,Mosque,"(21.19166626,  92.1576435199999)",**,**,**,**,No,No,No,No
+252.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_4,MQ,Mosque,"(21.1926361,  92.1610019999999)",Private Donation,**,**,**,No,No,No,No
+253.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_1,MQ,Mosque,"(21.1938038,  92.1542764)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+254.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_2,MQ,Mosque,"(21.1937901,  92.1543905)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+255.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_3,MQ,Mosque,"(21.1939511,  92.1536428)",**,**,**,**,No,No,No,No
+256.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_1,MD,Madrassah,"(21.19357739,  92.1525408899999)",Private Donation,**,**,**,No,No,No,No
+257.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_1,CF,Child Friendly Space,"(21.1941072,  92.1542799)",Non-governmental Organization (United Nations),Brac Unicef,-1.0,**,Yes,No,No,Yes
+258.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_2,CF,Child Friendly Space,"(21.1936621,  92.1543123)",Non-governmental Organization (United Nations),Brac Unicef,**,**,No,No,No,No
+259.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_4,MQ,Mosque,"(21.1926051499999,  92.15504753)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+260.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_3,CF,Child Friendly Space,"(21.1927193199999,  92.15551829)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+261.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_5,MQ,Mosque,"(21.19361856,  92.1526688)",Private Donation,**,**,**,No,No,No,No
+262.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_6,MQ,Mosque,"(21.19300009,  92.15250561)",Private Donation,**,**,**,No,No,No,No
+263.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_1,MD,Madrassah,"(21.19983556,  92.1566880999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+264.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_3,MQ,Mosque,"(21.19985481,  92.15662908)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+265.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_4,MQ,Mosque,"(21.1990928799999,  92.1548126699999)",**,**,**,**,No,No,No,No
+266.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_2,MD,Madrassah,"(21.19882243,  92.1553789999999)",Self Made,**,**,-1.0,No,Yes,No,Yes
+267.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_3,MD,Madrassah,"(21.1989468099999,  92.15554296)",Self Made,**,**,**,No,No,No,No
+268.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_5,MQ,Mosque,"(21.1998573099999,  92.1580696999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+269.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_6,MQ,Mosque,"(21.1980186999999,  92.1522542)",Private Donation,**,**,**,No,No,No,No
+270.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_7,MQ,Mosque,"(21.1991103,  92.1571615999999)",**,**,**,**,No,No,No,No
+271.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_8,MQ,Mosque,"(21.19812388,  92.15232319)",Private Donation,**,**,**,No,No,No,No
+272.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_1,CF,Child Friendly Space,"(21.19608427,  92.15456699)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+273.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_9,MQ,Mosque,"(21.1984930799999,  92.15794155)",Private Donation,**,**,**,No,No,No,No
+274.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_4,MD,Madrassah,"(21.1948136,  92.1547489)",Private Donation,**,**,**,No,No,No,No
+275.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_5,MD,Madrassah,"(21.1987778899999,  92.15861954)",Private Donation,**,**,**,No,No,No,No
+276.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_2,CF,Child Friendly Space,"(21.1952357,  92.154426)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+277.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_10,MQ,Mosque,"(21.1951913,  92.1534252)",Private Donation,**,**,**,No,No,No,No
+278.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_11,MQ,Mosque,"(21.1984905099999,  92.1577364599999)",Local Government,**,-1.0,**,Yes,No,No,Yes
+279.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_12,MQ,Mosque,"(21.19638829,  92.15462008)",Private Donation,**,**,**,No,No,No,No
+280.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_13,MQ,Mosque,"(21.1956960999999,  92.15024535)",Private Donation,**,**,**,No,No,No,No
+281.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_14,MQ,Mosque,"(21.1951453,  92.1535465999999)",**,**,-1.0,**,Yes,No,No,Yes
+282.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_15,MQ,Mosque,"(21.1937149,  92.1548769)",Private Donation,**,**,**,No,No,No,No
+283.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_16,MQ,Mosque,"(21.1949678,  92.1547458999999)",Private Donation,**,**,**,No,No,No,No
+284.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_6,MD,Madrassah,"(21.1979401,  92.1556341)",Private Donation,**,**,**,No,No,No,No
+285.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_3,CF,Child Friendly Space,"(21.1948377,  92.1529871)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+286.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_17,MQ,Mosque,"(21.197894,  92.1586015)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+287.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_18,MQ,Mosque,"(21.19302338,  92.15511397)",Private Donation,**,**,**,No,No,No,No
+288.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_19,MQ,Mosque,"(21.1958930899999,  92.15581774)",Private Donation,**,**,**,No,No,No,No
+289.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_20,MQ,Mosque,"(21.1953526399999,  92.1588883499999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+290.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_FO_1,FO,Field Office,"(21.19468913,  92.1484943899999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+291.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_4,CF,Child Friendly Space,"(21.1975815499999,  92.16024301)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+292.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_21,MQ,Mosque,"(21.1952743999999,  92.1558472899999)",Private Donation,**,**,**,No,No,No,No
+293.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_22,MQ,Mosque,"(21.1963701299999,  92.1593756999999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+294.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_1,MQ,Mosque,"(21.2031269,  92.1485153999999)",Private Donation,**,**,**,No,No,No,No
+295.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_1,MD,Madrassah,"(21.2047628,  92.1490000999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+296.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_2,MQ,Mosque,"(21.20556711,  92.15356438)",Private Donation,**,**,**,No,No,No,No
+297.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_3,MQ,Mosque,"(21.2025767899999,  92.15330577)",Private Donation,**,**,**,No,No,No,No
+298.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_4,MQ,Mosque,"(21.20119583,  92.1529919999999)",Private Donation,**,**,**,No,No,No,No
+299.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_5,MQ,Mosque,"(21.20073568,  92.15499363)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+300.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_2,MD,Madrassah,"(21.2054714,  92.1493688999999)",Private Donation,**,**,**,No,No,No,No
+301.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_6,MQ,Mosque,"(21.2054511999999,  92.149516)",Private Donation,**,**,**,No,No,No,No
+302.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_3,MD,Madrassah,"(21.2031047,  92.1486196)",Self Made,**,**,**,No,No,No,No
+303.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_7,MQ,Mosque,"(21.20143835,  92.14685237)",Private Donation,**,**,**,No,No,No,No
+304.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_4,MD,Madrassah,"(21.2014359,  92.1468617099999)",**,**,**,**,No,No,No,No
+305.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_5,MD,Madrassah,"(21.1996976,  92.1487690999999)",Private Donation,**,**,**,No,No,No,No
+306.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_8,MQ,Mosque,"(21.1997679999999,  92.1488722)",Private Donation,**,**,**,No,No,No,No
+307.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_9,MQ,Mosque,"(21.2062256,  92.1523004)",Private Donation,**,**,**,No,No,No,No
+308.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_6,MD,Madrassah,"(21.2061941999999,  92.1541641999999)",Private Donation,**,**,**,No,No,No,No
+309.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_10,MQ,Mosque,"(21.20162944,  92.1467456099999)",Local Government,**,**,**,No,No,No,No
+310.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_11,MQ,Mosque,"(21.20558445,  92.15096572)",Private Donation,**,**,**,No,No,No,No
+311.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_7,MD,Madrassah,"(21.20558065,  92.1509439099999)",Private Donation,**,**,**,No,No,No,No
+312.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_12,MQ,Mosque,"(21.2052337,  92.1526834999999)",Private Donation,**,**,**,No,No,No,No
+313.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_13,MQ,Mosque,"(21.1988017999999,  92.1482134999999)",Private Donation,**,**,**,No,No,No,No
+314.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_14,MQ,Mosque,"(21.19957261,  92.1472173199999)",Private Donation,**,**,**,No,No,No,No
+315.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_15,MQ,Mosque,"(21.2013997799999,  92.14810404)",Private Donation,**,**,**,No,No,No,No
+316.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_35,MQ,Mosque,"(21.2139253,  92.1481945999999)",Private Donation,**,**,**,No,No,No,No
+317.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_36,MQ,Mosque,"(21.2138471399999,  92.15180248)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+318.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_19,MD,Madrassah,"(21.2136022599999,  92.15417872)",Private Donation,**,**,**,No,No,No,No
+319.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_37,MQ,Mosque,"(21.213612,  92.15410323)",Private Donation,**,**,**,No,No,No,No
+320.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_DC_4,DC,Distribution Center,"(21.21312135,  92.15442738)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+321.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_38,MQ,Mosque,"(21.2129637,  92.1522212)",Private Donation,**,**,**,No,No,No,No
+322.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_CF_8,CF,Child Friendly Space,"(21.2115155,  92.1540109999999)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+323.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MD_20,MD,Madrassah,"(21.2111753699999,  92.15415774)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+324.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1W,CXB-202,C1W_MQ_39,MQ,Mosque,"(21.21123052,  92.15404852)",Private Donation,**,**,**,No,No,No,No
+325.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_8,MQ,Mosque,"(21.20093526,  92.15672711)",Private Donation,**,**,**,No,No,No,No
+326.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_9,MQ,Mosque,"(21.2039918,  92.1578743)",Private Donation,**,**,**,No,No,No,No
+327.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_5,MD,Madrassah,"(21.2052519599999,  92.15657287)",Private Donation,**,**,**,No,No,No,No
+328.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_6,MD,Madrassah,"(21.20526295,  92.15656405)",Private Donation,**,**,**,No,No,No,No
+329.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_7,MD,Madrassah,"(21.2051316099999,  92.1565136199999)",Private Donation,**,**,**,No,No,No,No
+330.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_8,MD,Madrassah,"(21.2024614,  92.1572876)",Private Donation,**,**,**,No,No,No,No
+331.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_10,MQ,Mosque,"(21.2026574,  92.1571593)",Private Donation,**,**,**,No,No,No,No
+332.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_9,MD,Madrassah,"(21.2026553,  92.1572943999999)",Private Donation,**,**,**,No,No,No,No
+333.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_11,MQ,Mosque,"(21.20303733,  92.1582923499999)",Private Donation,**,**,**,No,No,No,No
+334.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_12,MQ,Mosque,"(21.20003454,  92.15734761)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+335.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_10,MD,Madrassah,"(21.2071897,  92.1559709)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+336.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_13,MQ,Mosque,"(21.2071335,  92.1558256999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+337.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_CF_2,CF,Child Friendly Space,"(21.2030707999999,  92.1546464999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+338.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_11,MD,Madrassah,"(21.2034215999999,  92.1549076999999)",**,**,**,**,No,No,No,No
+339.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_14,MQ,Mosque,"(21.2036424,  92.1551427999999)",Private Donation,**,**,**,No,No,No,No
+340.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_15,MQ,Mosque,"(21.2041557,  92.15998127)",Private Donation,**,**,**,No,No,No,No
+341.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_12,MD,Madrassah,"(21.20422624,  92.1599468299999)",Private Donation,**,**,**,No,No,No,No
+342.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_16,MQ,Mosque,"(21.20061798,  92.1562701699999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+343.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_17,MQ,Mosque,"(21.207032,  92.1559361999999)",Private Donation,**,**,**,No,No,No,No
+344.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_4,MD,Madrassah,"(21.19938626,  92.16436298)",Private Donation,**,**,**,No,No,No,No
+345.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_3,MQ,Mosque,"(21.19945877,  92.1643228899999)",Private Donation,**,**,**,No,No,No,No
+346.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_1,CF,Child Friendly Space,"(21.19945564,  92.16460849)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+347.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_4,MQ,Mosque,"(21.1994043499999,  92.16041656)",**,**,**,**,No,No,No,No
+348.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_5,MQ,Mosque,"(21.1994668399999,  92.15968535)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+349.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_5,MD,Madrassah,"(21.199601,  92.1597904)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+350.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_6,MQ,Mosque,"(21.19831676,  92.1642253299999)",Private Donation,**,**,**,No,No,No,No
+351.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_7,MQ,Mosque,"(21.19540877,  92.1655180599999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+352.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_2,CF,Child Friendly Space,"(21.1956773299999,  92.16757323)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+353.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_DC_1,DC,Distribution Center,"(21.19062315,  92.16801153)",Local Government,**,**,**,No,No,No,No
+354.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_3,CF,Child Friendly Space,"(21.1982389299999,  92.16434184)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+355.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_8,MQ,Mosque,"(21.1958806899999,  92.16502895)",Private Donation,**,**,**,No,No,No,No
+356.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_4,CF,Child Friendly Space,"(21.1955412099999,  92.1650204099999)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+357.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_5,CF,Child Friendly Space,"(21.1953982,  92.1650249799999)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+358.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_9,MQ,Mosque,"(21.19543659,  92.1650010299999)",Private Donation,**,**,**,No,No,No,No
+359.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_10,MQ,Mosque,"(21.1957850999999,  92.1614726199999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+360.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_6,MD,Madrassah,"(21.19575842,  92.16142705)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+361.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_6,CF,Child Friendly Space,"(21.19517432,  92.1663236699999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+362.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_11,MQ,Mosque,"(21.1962843899999,  92.16692098)",Private Donation,**,**,**,No,No,No,No
+363.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_12,MQ,Mosque,"(21.1950191699999,  92.1615890799999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+364.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_13,MQ,Mosque,"(21.1998317,  92.1612791999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+365.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_7,CF,Child Friendly Space,"(21.1937567,  92.1613768999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+366.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_8,CF,Child Friendly Space,"(21.1973280499999,  92.16458317)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+367.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_14,MQ,Mosque,"(21.1951928999999,  92.1668359899999)",Private Donation,**,**,**,No,No,No,No
+368.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_15,MQ,Mosque,"(21.1934359999999,  92.1618985)",Private Donation,**,**,**,No,No,No,No
+369.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_7,MD,Madrassah,"(21.1999071999999,  92.1615266)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+370.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_8,MD,Madrassah,"(21.1962061599999,  92.1595632399999)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+371.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_9,CF,Child Friendly Space,"(21.199577,  92.161935)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+372.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_16,MQ,Mosque,"(21.1972618,  92.16661301)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+373.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_FO_1,FO,Field Office,"(21.19567809,  92.16188078)",Non-governmental Organization (United Nations),IOM,**,**,No,No,No,No
+374.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_10,CF,Child Friendly Space,"(21.1980262,  92.1673385999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+375.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_4,MD,Madrassah,"(21.20877999,  92.16131396)",**,**,**,**,No,No,No,No
+376.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_7,MQ,Mosque,"(21.2107854799999,  92.15911972)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+377.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_WF_1,WF,Women's Friendly Space,"(21.2073782,  92.1592839)",Non-governmental Organization (United Nations),Mukti UNFPA,**,-1.0,No,Yes,No,Yes
+378.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_8,MQ,Mosque,"(21.2082322,  92.1549945)",Private Donation,**,**,**,No,No,No,No
+379.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_9,MQ,Mosque,"(21.20934975,  92.1559274899999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+380.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_5,MD,Madrassah,"(21.2109552999999,  92.1590367999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+381.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_10,MQ,Mosque,"(21.2080677999999,  92.1559244)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+382.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_11,MQ,Mosque,"(21.2072967,  92.1573541)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+383.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_6,MD,Madrassah,"(21.2074372,  92.1575371999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+384.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MQ_12,MQ,Mosque,"(21.2078956,  92.1569733)",Local Government,**,**,**,No,No,No,No
+385.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_CF_3,CF,Child Friendly Space,"(21.2078408,  92.1553478999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+386.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_5,CF,Child Friendly Space,"(21.21535527,  92.15475834)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+387.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_13,MD,Madrassah,"(21.2124892,  92.1590912)",**,**,**,**,No,No,No,No
+388.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_28,MQ,Mosque,"(21.21251964,  92.1591342199999)",Private Donation,**,**,**,No,No,No,No
+389.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MD_14,MD,Madrassah,"(21.2171662999999,  92.1569386599999)",Private Donation,**,**,**,No,No,No,No
+390.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_5,MQ,Mosque,"(21.1935027,  92.1610205)",Private Donation,**,**,**,No,No,No,No
+391.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_6,MQ,Mosque,"(21.1928342299999,  92.15653772)",Private Donation,**,**,**,No,No,No,No
+392.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_2,MD,Madrassah,"(21.1926242,  92.1603152999999)",Private Donation,**,**,**,No,No,No,No
+393.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_7,MQ,Mosque,"(21.1925876,  92.1601533999999)",Private Donation,**,**,**,No,No,No,No
+394.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_8,MQ,Mosque,"(21.1927826999999,  92.1579418999999)",Private Donation,**,**,**,No,No,No,No
+395.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_3,MD,Madrassah,"(21.19202142,  92.15828618)",**,**,**,**,No,No,No,No
+396.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_9,MQ,Mosque,"(21.1917171999999,  92.15762331)",Self Made,**,**,**,No,No,No,No
+397.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_10,MQ,Mosque,"(21.1936317,  92.1587164)",Private Donation,**,**,**,No,No,No,No
+398.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_4,MD,Madrassah,"(21.19357638,  92.15870839)",Private Donation,**,**,**,No,No,No,No
+399.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_CF_1,CF,Child Friendly Space,"(21.1915742,  92.1606301)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+400.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_5,MD,Madrassah,"(21.1921776,  92.1608022599999)",**,**,**,**,No,No,No,No
+401.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_11,MQ,Mosque,"(21.1936138,  92.15737169)",Private Donation,**,**,**,No,No,No,No
+402.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_12,MQ,Mosque,"(21.19285365,  92.1588787999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+403.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_13,MQ,Mosque,"(21.1924357999999,  92.16018017)",Self Made,**,**,**,No,No,No,No
+404.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_14,MQ,Mosque,"(21.1936553299999,  92.15872466)",Private Donation,**,**,**,No,No,No,No
+405.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_6,MD,Madrassah,"(21.1935991299999,  92.1586944799999)",Private Donation,**,**,**,No,No,No,No
+406.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_CF_2,CF,Child Friendly Space,"(21.1866923999999,  92.1586116)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+407.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_WF_1,WF,Women's Friendly Space,"(21.1892362,  92.1595255999999)",Non-governmental Organization (United Nations),Ukaid,**,-1.0,No,Yes,No,Yes
+408.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_15,MQ,Mosque,"(21.1884026,  92.1640542199999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+409.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_DC_1,DC,Distribution Center,"(21.1891266999999,  92.1653478)",Non-governmental Organization (United Nations),WFP,**,-1.0,No,Yes,No,Yes
+410.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_7,MD,Madrassah,"(21.19028351,  92.15851263)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+411.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_16,MQ,Mosque,"(21.1901487,  92.1594134999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+412.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_17,MQ,Mosque,"(21.1861439199999,  92.1592349799999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+413.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_8,MD,Madrassah,"(21.18611864,  92.15909698)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+414.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_18,MQ,Mosque,"(21.18995277,  92.1602044899999)",,**,**,**,No,No,No,No
+415.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_4,CF,Child Friendly Space,"(21.1946413,  92.1528713999999)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+416.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_5,CF,Child Friendly Space,"(21.1944583,  92.1542831)",Non-governmental Organization (United Nations),SaveTheChildren Unicef,**,**,No,No,No,No
+417.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_6,CF,Child Friendly Space,"(21.18679289,  92.15172307)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+418.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_7,MQ,Mosque,"(21.18717677,  92.15550039)",Local Government,**,-1.0,**,Yes,No,No,Yes
+419.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_7,CF,Child Friendly Space,"(21.18769344,  92.15589241)",Private Donation,**,**,**,No,No,No,No
+420.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_2,MD,Madrassah,"(21.1867065,  92.1553233)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+421.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_8,MQ,Mosque,"(21.18668173,  92.15527926)",Local Government,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+422.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_9,MQ,Mosque,"(21.18655347,  92.1556812299999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+423.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_8,CF,Child Friendly Space,"(21.18766012,  92.15479009)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+424.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_10,MQ,Mosque,"(21.1872470799999,  92.15519317)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+425.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_3,MD,Madrassah,"(21.1865152399999,  92.15594126)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+426.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_9,CF,Child Friendly Space,"(21.1879007,  92.1525290799999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+427.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_10,CF,Child Friendly Space,"(21.18745296,  92.15386506)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+428.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_4,MD,Madrassah,"(21.1890339999999,  92.1532351999999)",Private Donation,**,**,**,No,No,No,No
+429.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_11,MQ,Mosque,"(21.188886,  92.1539628)",Private Donation,**,**,**,No,No,No,No
+430.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_12,MQ,Mosque,"(21.1881380899999,  92.1539155499999)",Private Donation,**,**,**,No,No,No,No
+431.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_13,MQ,Mosque,"(21.1918422,  92.152466)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+432.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_5,MD,Madrassah,"(21.1917404,  92.1526173)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+433.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_6,MD,Madrassah,"(21.1916271,  92.1525034)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+434.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_7,MD,Madrassah,"(21.192377,  92.153288)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+435.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_WF_1,WF,Women's Friendly Space,"(21.18790031,  92.1572311999999)",Non-governmental Organization (United Nations),UNFPA,**,**,No,No,No,No
+436.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_14,MQ,Mosque,"(21.1909471399999,  92.1548405399999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+437.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_15,MQ,Mosque,"(21.18924852,  92.1585134999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+438.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_16,MQ,Mosque,"(21.18755676,  92.15741631)",Private Donation,**,**,**,No,No,No,No
+439.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_8,MD,Madrassah,"(21.18926717,  92.1584419299999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+440.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_9,MD,Madrassah,"(21.1891342099999,  92.15858351)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+441.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_11,CF,Child Friendly Space,"(21.18757928,  92.1573172699999)",Non-governmental Organization (United Nations),SaveTheChildren,**,-1.0,No,Yes,No,Yes
+442.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_17,MQ,Mosque,"(21.1865925,  92.1566346)",Private Donation,**,**,**,No,No,No,No
+443.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_FO_1,FO,Field Office,"(21.18712798,  92.15652626)",**,**,**,**,No,No,No,No
+444.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_18,MQ,Mosque,"(21.18876564,  92.15609426)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+445.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_19,MQ,Mosque,"(21.18744508,  92.1526416899999)",Private Donation,**,**,**,No,No,No,No
+446.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_20,MQ,Mosque,"(21.1908347699999,  92.15370328)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+447.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_21,MQ,Mosque,"(21.18935738,  92.15732006)",**,**,**,**,No,No,No,No
+448.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_22,MQ,Mosque,"(21.1858882999999,  92.1526637)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+449.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_23,MQ,Mosque,"(21.1885122,  92.1526872999999)",Private Donation,**,**,**,No,No,No,No
+450.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_1,MQ,Mosque,"(21.1901800599999,  92.1437217)",Local Government,**,**,-1.0,No,Yes,No,Yes
+451.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_2,MQ,Mosque,"(21.19469732,  92.14663249)",Private Donation,**,**,**,No,No,No,No
+452.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_3,MQ,Mosque,"(21.1925107299999,  92.1472848199999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+453.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_4,MQ,Mosque,"(21.1874092199999,  92.1510153499999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+454.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_5,MQ,Mosque,"(21.1907852,  92.1461319999999)",Self Made,**,-1.0,**,Yes,No,No,Yes
+455.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_6,MQ,Mosque,"(21.1897364,  92.1486397)",Private Donation,**,**,**,No,No,No,No
+456.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_7,MQ,Mosque,"(21.1911093999999,  92.1483893999999)",Self Made,**,-1.0,**,Yes,No,No,Yes
+457.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_8,MQ,Mosque,"(21.1906076,  92.1489911)",Self Made,**,**,**,No,No,No,No
+458.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_1,CF,Child Friendly Space,"(21.1888562,  92.151481)",Non-governmental Organization (United Nations),SaveTheChildren,-1.0,-1.0,Yes,Yes,Yes,Yes
+459.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_9,MQ,Mosque,"(21.19426611,  92.14713677)",Private Donation,**,**,**,No,No,No,No
+460.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_10,MQ,Mosque,"(21.1877971999999,  92.1476114)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+461.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_11,MQ,Mosque,"(21.18745667,  92.1461999999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+462.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_1,MD,Madrassah,"(21.1874299999999,  92.1461749999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+463.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_12,MQ,Mosque,"(21.1872933299999,  92.14949833)",Private Donation,**,**,**,No,No,No,No
+464.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_13,MQ,Mosque,"(21.1880896999999,  92.1453558)",Private Donation,**,**,**,No,No,No,No
+465.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_2,CF,Child Friendly Space,"(21.1888603999999,  92.1499804999999)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+466.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_14,MQ,Mosque,"(21.18824533,  92.14921399)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+467.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_15,MQ,Mosque,"(21.1870116999999,  92.1450351999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+468.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_2,MD,Madrassah,"(21.18628957,  92.14484342)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+469.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_16,MQ,Mosque,"(21.1886247999999,  92.1501836999999)",Private Donation,**,**,**,No,No,No,No
+470.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_17,MQ,Mosque,"(21.1862537999999,  92.1445186699999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+471.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_18,MQ,Mosque,"(21.1889071999999,  92.1449513)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+472.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_3,MD,Madrassah,"(21.1889277999999,  92.1450877)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+473.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_19,MQ,Mosque,"(21.1852461,  92.1451131)",Local Government,**,**,**,No,No,No,No
+474.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_20,MQ,Mosque,"(21.1885379,  92.1510892)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+475.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_21,MQ,Mosque,"(21.1861333,  92.1512178299999)",Local Government,**,**,**,No,No,No,No
+476.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_4,MD,Madrassah,"(21.1856282,  92.1453553)",Local Government,**,**,**,No,No,No,No
+477.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_5,MD,Madrassah,"(21.19312289,  92.1487609099999)",Private Donation,**,**,**,No,No,No,No
+478.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_WF_1,WF,Women's Friendly Space,"(21.1885991,  92.1516306)",Non-governmental Organization (United Nations),ActionAid YPSA Other,**,-1.0,No,Yes,No,Yes
+479.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_22,MQ,Mosque,"(21.1862095,  92.14584)",Private Donation,**,**,**,No,No,No,No
+480.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_23,MQ,Mosque,"(21.1844195999999,  92.1457314999999)",Private Donation,**,**,**,No,No,No,No
+481.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_6,MD,Madrassah,"(21.1842061999999,  92.1457111)",Private Donation,**,**,**,No,No,No,No
+482.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_3,CF,Child Friendly Space,"(21.1842912,  92.1460723)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+483.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_5,CF,Child Friendly Space,"(21.1948651,  92.1530278)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+484.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_23,MQ,Mosque,"(21.19789529,  92.1557155099999)",Local Government,**,**,**,No,No,No,No
+485.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_6,CF,Child Friendly Space,"(21.1952357999999,  92.1533498999999)",Non-governmental Organization (United Nations),Brac Unicef,**,**,No,No,No,No
+486.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_24,MQ,Mosque,"(21.1957287699999,  92.15020692)",**,**,**,**,No,No,No,No
+487.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_25,MQ,Mosque,"(21.1960137999999,  92.1569269999999)",Private Donation,**,**,**,No,No,No,No
+488.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_26,MQ,Mosque,"(21.19577967,  92.14959235)",**,**,**,**,No,No,No,No
+489.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_27,MQ,Mosque,"(21.195962,  92.1567167999999)",Private Donation,**,**,**,No,No,No,No
+490.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_7,MD,Madrassah,"(21.1959039999999,  92.156762)",Private Donation,**,**,**,No,No,No,No
+491.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_8,MD,Madrassah,"(21.1948955099999,  92.15139143)",Private Donation,**,**,**,No,No,No,No
+492.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_28,MQ,Mosque,"(21.1949310299999,  92.15728045)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+493.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_29,MQ,Mosque,"(21.19576854,  92.1573310499999)",Private Donation,**,**,**,No,No,No,No
+494.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_30,MQ,Mosque,"(21.19634031,  92.1530578699999)",Private Donation,**,**,**,No,No,No,No
+495.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_31,MQ,Mosque,"(21.19388107,  92.1502198499999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+496.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_32,MQ,Mosque,"(21.1959544,  92.155766)",Private Donation,**,**,**,No,No,No,No
+497.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_33,MQ,Mosque,"(21.1955187199999,  92.1578383699999)",Private Donation,**,**,**,No,No,No,No
+498.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_7,CF,Child Friendly Space,"(21.1936491999999,  92.1549816999999)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+499.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_9,MD,Madrassah,"(21.1937587,  92.1551170999999)",Private Donation,**,**,**,No,No,No,No
+500.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_10,MD,Madrassah,"(21.19482653,  92.15140322)",Private Donation,**,**,**,No,No,No,No
+501.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_34,MQ,Mosque,"(21.1988724899999,  92.1585847799999)",Private Donation,**,**,**,No,No,No,No
+502.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_8,CF,Child Friendly Space,"(21.1988626999999,  92.1584227)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+503.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_35,MQ,Mosque,"(21.19461463,  92.1516589299999)",**,**,**,**,No,No,No,No
+504.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_36,MQ,Mosque,"(21.19445251,  92.1576682599999)",Private Donation,**,**,**,No,No,No,No
+505.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_11,MD,Madrassah,"(21.19451394,  92.15780585)",Local Government,**,**,**,No,No,No,No
+506.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_WF_1,WF,Women's Friendly Space,"(21.1958480999999,  92.1520756999999)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+507.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_37,MQ,Mosque,"(21.1916437,  92.1512122)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+508.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_12,MD,Madrassah,"(21.192325,  92.1514051999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+509.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_1,MQ,Mosque,"(21.20428915,  92.1480072699999)",Private Donation,**,**,**,No,No,No,No
+510.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_16,MQ,Mosque,"(21.20418808,  92.1512587499999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+511.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_17,MQ,Mosque,"(21.1985135,  92.1469995)",Private Donation,**,**,**,No,No,No,No
+512.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_8,MD,Madrassah,"(21.2043684799999,  92.15128824)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+513.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_18,MQ,Mosque,"(21.2035649,  92.1506513)",Private Donation,**,**,**,No,No,No,No
+514.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_9,MD,Madrassah,"(21.1985063999999,  92.1470499999999)",Private Donation,**,**,**,No,No,No,No
+515.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_10,MD,Madrassah,"(21.2035887,  92.1507842)",Private Donation,**,**,**,No,No,No,No
+516.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_11,MD,Madrassah,"(21.1984427999999,  92.1471444999999)",Private Donation,**,**,**,No,No,No,No
+517.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_19,MQ,Mosque,"(21.2010004,  92.1492138299999)",Private Donation,**,**,**,No,No,No,No
+518.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_20,MQ,Mosque,"(21.2047648,  92.1500094999999)",Private Donation,**,**,**,No,No,No,No
+519.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_21,MQ,Mosque,"(21.2041763,  92.1522805999999)",Private Donation,**,**,**,No,No,No,No
+520.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_22,MQ,Mosque,"(21.2030198,  92.1514605999999)",Private Donation,**,**,**,No,No,No,No
+521.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_23,MQ,Mosque,"(21.2012438199999,  92.15022141)",,**,**,**,No,No,No,No
+522.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_24,MQ,Mosque,"(21.2046546,  92.1491458999999)",Private Donation,**,**,**,No,No,No,No
+523.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_25,MQ,Mosque,"(21.20166889,  92.15153763)",Private Donation,**,**,**,No,No,No,No
+524.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_12,MD,Madrassah,"(21.20176079,  92.1515596899999)",Private Donation,**,**,**,No,No,No,No
+525.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_13,MD,Madrassah,"(21.2047744,  92.1489205)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+526.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_14,MD,Madrassah,"(21.2048370999999,  92.1486842999999)",Private Donation,**,**,**,No,No,No,No
+527.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_26,MQ,Mosque,"(21.2029645,  92.1523834999999)",Private Donation,**,**,**,No,No,No,No
+528.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_27,MQ,Mosque,"(21.2043512999999,  92.1480593999999)",Private Donation,**,**,**,No,No,No,No
+529.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_28,MQ,Mosque,"(21.2043657,  92.1538592999999)",Private Donation,**,**,**,No,No,No,No
+530.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_29,MQ,Mosque,"(21.2055231999999,  92.1544607)",Private Donation,**,**,**,No,No,No,No
+531.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_15,MD,Madrassah,"(21.2054806999999,  92.1535212999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+532.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_13,MD,Madrassah,"(21.2061786999999,  92.155264)",Private Donation,**,**,**,No,No,No,No
+533.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_18,MQ,Mosque,"(21.2062233,  92.1552709)",Private Donation,**,**,**,No,No,No,No
+534.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_19,MQ,Mosque,"(21.2065108,  92.1569602999999)",Private Donation,**,**,**,No,No,No,No
+535.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_20,MQ,Mosque,"(21.2048437999999,  92.1546847999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+536.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_17,MQ,Mosque,"(21.1992828799999,  92.1662921599999)",Non-governmental Organization (United Nations),iHH,-1.0,**,Yes,No,No,Yes
+537.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_18,MQ,Mosque,"(21.1956546199999,  92.1597098099999)",Private Donation,**,**,**,No,No,No,No
+538.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_19,MQ,Mosque,"(21.1984405,  92.1675065)",Private Donation,**,**,**,No,No,No,No
+539.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_20,MQ,Mosque,"(21.19582475,  92.16311303)",Private Donation,**,**,**,No,No,No,No
+540.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_21,MQ,Mosque,"(21.1976589199999,  92.1677049799999)",Private Donation,**,**,**,No,No,No,No
+541.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_22,MQ,Mosque,"(21.19503947,  92.1639313)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+542.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_9,MD,Madrassah,"(21.1948670899999,  92.16393367)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+543.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_23,MQ,Mosque,"(21.1960629999999,  92.16804)",Private Donation,**,**,**,No,No,No,No
+544.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_11,CF,Child Friendly Space,"(21.19779545,  92.16755141)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+545.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_FO_2,FO,Field Office,"(21.19478376,  92.16321089)",Local Government,**,**,**,No,No,No,No
+546.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_24,MQ,Mosque,"(21.1944911599999,  92.16343156)",Private Donation,**,**,**,No,No,No,No
+547.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_25,MQ,Mosque,"(21.1983767999999,  92.1641350999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+548.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_12,CF,Child Friendly Space,"(21.19754327,  92.16145887)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+549.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_26,MQ,Mosque,"(21.19582717,  92.16083312)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+550.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_10,MD,Madrassah,"(21.1943983,  92.16326963)",Private Donation,**,**,**,No,No,No,No
+551.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_27,MQ,Mosque,"(21.1977482299999,  92.1623177299999)",Private Donation,**,**,**,No,No,No,No
+552.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_28,MQ,Mosque,"(21.19898415,  92.1601153799999)",**,**,**,-1.0,No,Yes,No,Yes
+553.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_13,CF,Child Friendly Space,"(21.19757061,  92.1622464)",Non-governmental Organization (United Nations),Ukaid Unicef,**,**,No,No,No,No
+554.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_29,MQ,Mosque,"(21.1968192,  92.1628654)",Private Donation,**,**,**,No,No,No,No
+555.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_11,MD,Madrassah,"(21.1968187999999,  92.1629489)",Private Donation,**,**,**,No,No,No,No
+556.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_12,MD,Madrassah,"(21.1963687199999,  92.1608238)",Non-governmental Organization (United Nations),DPHE,**,-1.0,No,Yes,No,Yes
+557.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_30,MQ,Mosque,"(21.19681543,  92.1685860399999)",Private Donation,**,**,**,No,No,No,No
+558.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_13,MD,Madrassah,"(21.19834556,  92.1609871299999)",Private Donation,**,**,**,No,No,No,No
+559.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_14,CF,Child Friendly Space,"(21.1964621,  92.1631955999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+560.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_31,MQ,Mosque,"(21.1947323099999,  92.1607849399999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+561.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_14,MD,Madrassah,"(21.1968314,  92.1685491)",Non-governmental Organization (United Nations),AlMazrakulIslami,**,**,No,No,No,No
+562.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MD_15,MD,Madrassah,"(21.19458938,  92.16072733)",Private Donation,**,**,**,No,No,No,No
+563.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_32,MQ,Mosque,"(21.1994189,  92.1602634)",**,**,**,**,No,No,No,No
+564.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_33,MQ,Mosque,"(21.196152,  92.1637644)",Private Donation,**,**,**,No,No,No,No
+565.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_34,MQ,Mosque,"(21.1966056999999,  92.1644512999999)",Private Donation,**,**,**,No,No,No,No
+566.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_15,CF,Child Friendly Space,"(21.1963499,  92.16436942)",Non-governmental Organization (United Nations),Unicef,-1.0,**,Yes,No,No,Yes
+567.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_16,CF,Child Friendly Space,"(21.1912068,  92.1670308)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+568.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_1,MD,Madrassah,"(21.1864197999999,  92.157227)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+569.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_1,MQ,Mosque,"(21.18624329,  92.1545780099999)",Local Government,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+570.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_2,MQ,Mosque,"(21.1854947699999,  92.1569081699999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+571.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_3,MQ,Mosque,"(21.18511381,  92.1562535399999)",Non-governmental Organization (United Nations),AlMidaadFoundation,-1.0,**,Yes,No,No,Yes
+572.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_1,CF,Child Friendly Space,"(21.1842402999999,  92.1553205999999)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+573.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_2,MD,Madrassah,"(21.18296155,  92.15716544)",Non-governmental Organization (United Nations),CrisisAid,**,**,No,No,No,No
+574.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_4,MQ,Mosque,"(21.1840216999999,  92.1557368)",**,**,**,-1.0,No,Yes,No,Yes
+575.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_2,CF,Child Friendly Space,"(21.1866407999999,  92.1577299)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+576.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_5,MQ,Mosque,"(21.18262352,  92.1569829599999)",Non-governmental Organization (United Nations),CrisisAid,-1.0,**,Yes,No,No,Yes
+577.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_6,MQ,Mosque,"(21.1837854999999,  92.15682458)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+578.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_3,CF,Child Friendly Space,"(21.1836485,  92.15687303)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+579.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_4,CF,Child Friendly Space,"(21.18541124,  92.1557259399999)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+580.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_7,MQ,Mosque,"(21.1838441999999,  92.1552228)",**,**,-1.0,**,Yes,No,No,Yes
+581.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_5,CF,Child Friendly Space,"(21.1866582,  92.1577563)",Non-governmental Organization (United Nations),Brac Unicef,**,-1.0,No,Yes,No,Yes
+582.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_8,MQ,Mosque,"(21.1861496,  92.1577367)",Private Donation,**,**,**,No,No,No,No
+583.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_9,MQ,Mosque,"(21.1853144799999,  92.1552737899999)",**,**,**,**,No,No,No,No
+584.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_3,MD,Madrassah,"(21.1859867,  92.1578228999999)",Private Donation,**,**,**,No,No,No,No
+585.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_6,CF,Child Friendly Space,"(21.1851837,  92.15557789)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+586.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_10,MQ,Mosque,"(21.18450079,  92.15725027)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+587.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_4,MD,Madrassah,"(21.1864646,  92.1572764999999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+588.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_7,CF,Child Friendly Space,"(21.18532962,  92.1545778699999)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+589.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_8,CF,Child Friendly Space,"(21.1848893899999,  92.15750486)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+590.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_1,MQ,Mosque,"(21.1838820699999,  92.14901448)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+591.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_19,MQ,Mosque,"(21.1924369599999,  92.15573225)",Private Donation,**,**,**,No,No,No,No
+592.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_20,MQ,Mosque,"(21.1897815899999,  92.15667958)",Private Donation,**,**,**,No,No,No,No
+593.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_9,MD,Madrassah,"(21.18968525,  92.15666231)",Private Donation,**,**,**,No,No,No,No
+594.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_CF_3,CF,Child Friendly Space,"(21.19218202,  92.15581235)",Non-governmental Organization (United Nations),SaveTheChildren,**,-1.0,No,Yes,No,Yes
+595.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_21,MQ,Mosque,"(21.1867503,  92.159481)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+596.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_DC_2,DC,Distribution Center,"(21.18725728,  92.1598424099999)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+597.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_DC_3,DC,Distribution Center,"(21.1864621,  92.1613743)",Local Government,**,**,**,No,No,No,No
+598.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_10,MD,Madrassah,"(21.19067658,  92.1568606299999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+599.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_22,MQ,Mosque,"(21.1907165199999,  92.1567673499999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+600.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_11,MD,Madrassah,"(21.1895017999999,  92.1615874)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+601.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_CF_4,CF,Child Friendly Space,"(21.1864355,  92.1609564)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+602.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_CC_1,CC,Community Centre,"(21.1875288899999,  92.1605013199999)",Self Made,**,**,**,No,No,No,No
+603.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_23,MQ,Mosque,"(21.1893488,  92.1613401999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+604.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_24,MQ,Mosque,"(21.19133057,  92.1564648399999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+605.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_25,MQ,Mosque,"(21.1889799,  92.1595789)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+606.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_26,MQ,Mosque,"(21.19389667,  92.1593071799999)",**,**,**,**,No,No,No,No
+607.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_12,MD,Madrassah,"(21.1881026,  92.1596188999999)",Private Donation,**,**,**,No,No,No,No
+608.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_FO_1,FO,Field Office,"(21.18800817,  92.15910112)",Non-governmental Organization (United Nations),ACF,**,**,No,No,No,No
+609.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_FO_2,FO,Field Office,"(21.18789247,  92.15919171)",Non-governmental Organization (United Nations),RedCrescentSociety Tika,**,**,No,No,No,No
+610.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_27,MQ,Mosque,"(21.1910434599999,  92.15583861)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+611.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_13,MD,Madrassah,"(21.19106345,  92.15765754)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+612.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_28,MQ,Mosque,"(21.1909949299999,  92.1576291199999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+613.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CC_1,CC,Community Centre,"(21.1861311,  92.1529699)",Non-governmental Organization (United Nations),IOM,**,-1.0,No,Yes,No,Yes
+614.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_12,CF,Child Friendly Space,"(21.1863826999999,  92.1529522)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+615.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_24,MQ,Mosque,"(21.18668508,  92.15310178)",Local Government,**,**,-1.0,No,Yes,No,Yes
+616.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_25,MQ,Mosque,"(21.18875526,  92.1577907799999)",Private Donation,**,**,**,No,No,No,No
+617.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_10,MD,Madrassah,"(21.1900179,  92.1557669)",Private Donation,**,**,**,No,No,No,No
+618.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_26,MQ,Mosque,"(21.1898708,  92.1557432)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+619.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_11,MD,Madrassah,"(21.1899498999999,  92.1556152999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+620.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_13,CF,Child Friendly Space,"(21.1864284,  92.1534414)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+621.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_27,MQ,Mosque,"(21.19200757,  92.1553284799999)",Private Donation,**,**,**,No,No,No,No
+622.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_28,MQ,Mosque,"(21.1882165399999,  92.15814145)",Private Donation,**,**,**,No,No,No,No
+623.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_12,MD,Madrassah,"(21.1881452099999,  92.15816687)",Private Donation,**,**,**,No,No,No,No
+624.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_14,CF,Child Friendly Space,"(21.1862236999999,  92.1540781)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+625.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_29,MQ,Mosque,"(21.1889924,  92.1533807)",Private Donation,**,**,**,No,No,No,No
+626.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_30,MQ,Mosque,"(21.1864899,  92.1540751999999)",Private Donation,**,**,**,No,No,No,No
+627.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_31,MQ,Mosque,"(21.1896929,  92.1546608999999)",Private Donation,**,**,**,No,No,No,No
+628.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_15,CF,Child Friendly Space,"(21.1885429999999,  92.1543594999999)",Non-governmental Organization (United Nations),SaveTheChildren Unicef,**,-1.0,No,Yes,No,Yes
+629.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_IH_1,IH,Info Hub/ point/desk,"(21.188735,  92.15442)",Non-governmental Organization (United Nations),IOM Ukaid Other,**,-1.0,No,Yes,No,Yes
+630.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_FO_2,FO,Field Office,"(21.1890147999999,  92.1543821)",Non-governmental Organization (United Nations),IOM Ukaid,**,-1.0,No,Yes,No,Yes
+631.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_32,MQ,Mosque,"(21.1889918,  92.1549854)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+632.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_13,MD,Madrassah,"(21.18812549,  92.1539946999999)",Private Donation,**,**,**,No,No,No,No
+633.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_14,MD,Madrassah,"(21.18807933,  92.15405502)",Private Donation,**,**,**,No,No,No,No
+634.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CC_2,CC,Community Centre,"(21.1866899,  92.1555584)",Non-governmental Organization (United Nations),Unicef Other,**,-1.0,No,Yes,No,Yes
+635.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_15,MD,Madrassah,"(21.1865026,  92.1558976)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+636.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_CF_16,CF,Child Friendly Space,"(21.1864488,  92.1561841999999)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+637.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_16,MD,Madrassah,"(21.1891677499999,  92.1533275099999)",**,**,**,**,No,No,No,No
+638.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_17,MD,Madrassah,"(21.1890722899999,  92.15330787)",**,**,**,**,No,No,No,No
+639.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_33,MQ,Mosque,"(21.1900699999999,  92.15319667)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+640.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_18,MD,Madrassah,"(21.18915833,  92.1533199999999)",Private Donation,**,**,**,No,No,No,No
+641.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_34,MQ,Mosque,"(21.1890866699999,  92.1532899999999)",Private Donation,**,**,**,No,No,No,No
+642.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_24,MQ,Mosque,"(21.19421736,  92.1471769099999)",Private Donation,**,**,**,No,No,No,No
+643.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_25,MQ,Mosque,"(21.1891828999999,  92.1467063999999)",Private Donation,**,**,**,No,No,No,No
+644.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_26,MQ,Mosque,"(21.1848329,  92.1470127)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+645.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_4,CF,Child Friendly Space,"(21.1843767,  92.1473198999999)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+646.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_27,MQ,Mosque,"(21.19189763,  92.14957148)",Private Donation,**,**,**,No,No,No,No
+647.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_7,MD,Madrassah,"(21.18638002,  92.1475672699999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+648.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_28,MQ,Mosque,"(21.18629271,  92.14753063)",Private Donation,**,**,**,No,No,No,No
+649.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_29,MQ,Mosque,"(21.1916236299999,  92.14878991)",Private Donation,**,**,**,No,No,No,No
+650.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_8,MD,Madrassah,"(21.19094262,  92.1497312799999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+651.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_30,MQ,Mosque,"(21.19086944,  92.14964)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+652.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MD_9,MD,Madrassah,"(21.19115253,  92.1495696)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+653.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_31,MQ,Mosque,"(21.1877906,  92.1477005999999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+654.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_32,MQ,Mosque,"(21.1901006999999,  92.1437485)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+655.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_33,MQ,Mosque,"(21.1896534,  92.1494679)",Private Donation,**,**,**,No,No,No,No
+656.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_5,CF,Child Friendly Space,"(21.1865080699999,  92.1485639099999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+657.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_CF_6,CF,Child Friendly Space,"(21.1864897399999,  92.1484947)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+658.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_34,MQ,Mosque,"(21.1901051699999,  92.1510243799999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+659.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_35,MQ,Mosque,"(21.1919203,  92.14648411)",Private Donation,**,**,**,No,No,No,No
+660.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_36,MQ,Mosque,"(21.18630084,  92.1498633399999)",Private Donation,**,**,**,No,No,No,No
+661.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_37,MQ,Mosque,"(21.187065,  92.1482136)",Private Donation,**,**,**,No,No,No,No
+662.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_38,MQ,Mosque,"(21.1937807,  92.1554567)",**,**,**,**,No,No,No,No
+663.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_1,MQ,Mosque,"(21.18111796,  92.1451635899999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+664.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_2,MQ,Mosque,"(21.1809809499999,  92.14450288)",Local Government,**,**,**,No,No,No,No
+665.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_3,MQ,Mosque,"(21.1820391199999,  92.1415595099999)",Private Donation,**,**,**,No,No,No,No
+666.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_4,MQ,Mosque,"(21.1830147,  92.145581)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+667.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_1,MD,Madrassah,"(21.1831439,  92.1454887999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+668.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_5,MQ,Mosque,"(21.1848139999999,  92.1421054)",Non-governmental Organization (United Nations),Oxfam,**,**,No,No,No,No
+669.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_6,MQ,Mosque,"(21.1830724,  92.1415726999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+670.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_CF_1,CF,Child Friendly Space,"(21.1831968999999,  92.1417983999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+671.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_7,MQ,Mosque,"(21.1834661,  92.1425746999999)",Private Donation,**,**,**,No,No,No,No
+672.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_8,MQ,Mosque,"(21.1790486,  92.1454564)",Private Donation,**,**,**,No,No,No,No
+673.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_35,MQ,Mosque,"(21.19461545,  92.1616618399999)",**,**,**,-1.0,No,Yes,No,Yes
+674.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_11,MQ,Mosque,"(21.18550407,  92.1543844699999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+675.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_12,MQ,Mosque,"(21.18477765,  92.1558328699999)",**,**,-1.0,**,Yes,No,No,Yes
+676.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_13,MQ,Mosque,"(21.1851530699999,  92.15642567)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+677.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_9,CF,Child Friendly Space,"(21.1836601999999,  92.1558318999999)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+678.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_5,MD,Madrassah,"(21.1838748999999,  92.1558657)",**,**,-1.0,**,Yes,No,No,Yes
+679.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_14,MQ,Mosque,"(21.1854336299999,  92.15786875)",**,**,-1.0,**,Yes,No,No,Yes
+680.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_15,MQ,Mosque,"(21.18178659,  92.15410943)",**,**,-1.0,**,Yes,No,No,Yes
+681.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_16,MQ,Mosque,"(21.18460658,  92.15721351)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+682.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_6,MD,Madrassah,"(21.1847099999999,  92.15452191)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+683.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_17,MQ,Mosque,"(21.18137254,  92.15540987)",**,**,-1.0,**,Yes,No,No,Yes
+684.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_18,MQ,Mosque,"(21.18328356,  92.1579765599999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+685.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_10,CF,Child Friendly Space,"(21.1841456,  92.1583032)",Non-governmental Organization (United Nations),Brac Unicef,-1.0,-1.0,Yes,Yes,Yes,Yes
+686.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_19,MQ,Mosque,"(21.1841861,  92.1581364999999)",,**,**,-1.0,No,Yes,No,Yes
+687.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_11,CF,Child Friendly Space,"(21.1852038299999,  92.1536724399999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+688.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_20,MQ,Mosque,"(21.18516168,  92.1535887299999)",Private Donation,**,**,**,No,No,No,No
+689.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_12,CF,Child Friendly Space,"(21.18212854,  92.157595)",Non-governmental Organization (United Nations),Unicef,-1.0,**,Yes,No,No,Yes
+690.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_7,MD,Madrassah,"(21.18270959,  92.1577791999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+691.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_8,MD,Madrassah,"(21.1838195399999,  92.1525740799999)",Private Donation,**,**,**,No,No,No,No
+692.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_21,MQ,Mosque,"(21.1856271999999,  92.1534688699999)",Private Donation,**,**,**,No,No,No,No
+693.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_22,MQ,Mosque,"(21.1818099999999,  92.1572007999999)",**,**,-1.0,**,Yes,No,No,Yes
+694.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_23,MQ,Mosque,"(21.1853625,  92.1523966999999)",**,**,-1.0,**,Yes,No,No,Yes
+695.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_24,MQ,Mosque,"(21.180506,  92.1553549)",**,**,**,**,No,No,No,No
+696.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_25,MQ,Mosque,"(21.1838279999999,  92.15526194)",**,**,-1.0,**,Yes,No,No,Yes
+697.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_26,MQ,Mosque,"(21.18383682,  92.15450662)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+698.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_27,MQ,Mosque,"(21.1803215,  92.1540157)",**,**,**,**,No,No,No,No
+699.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_28,MQ,Mosque,"(21.17939609,  92.1568316299999)",Private Donation,**,**,**,No,No,No,No
+700.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_13,CF,Child Friendly Space,"(21.1842865399999,  92.15414701)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+701.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_DC_1,DC,Distribution Center,"(21.17975158,  92.1568619699999)",Local Government,**,**,**,No,No,No,No
+702.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_2,MQ,Mosque,"(21.1837249,  92.1498402)",**,**,-1.0,**,Yes,No,No,Yes
+703.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_1,MD,Madrassah,"(21.1837857,  92.149956)",**,**,-1.0,**,Yes,No,No,Yes
+704.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_DC_1,DC,Distribution Center,"(21.18434634,  92.1515866999999)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+705.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_CF_1,CF,Child Friendly Space,"(21.1829819,  92.1483616)",**,**,-1.0,**,Yes,No,No,Yes
+706.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_2,MD,Madrassah,"(21.1826335999999,  92.1495871999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+707.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_3,MD,Madrassah,"(21.1841225,  92.1509252)",Private Donation,**,**,**,No,No,No,No
+708.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_3,MQ,Mosque,"(21.1842399999999,  92.1509659)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+709.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_4,MQ,Mosque,"(21.184577,  92.1492729)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+710.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_5,MQ,Mosque,"(21.18457,  92.1498287)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+711.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_4,MD,Madrassah,"(21.1846061,  92.1499381)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+712.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_6,MQ,Mosque,"(21.1775066,  92.1546211999999)",Private Donation,**,**,**,No,No,No,No
+713.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_7,MQ,Mosque,"(21.1765374,  92.1544650999999)",**,**,**,**,No,No,No,No
+714.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_8,MQ,Mosque,"(21.17798965,  92.14914484)",Local Government,**,**,**,No,No,No,No
+715.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_9,MQ,Mosque,"(21.1784716499999,  92.14911822)",**,**,**,**,No,No,No,No
+716.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_10,MQ,Mosque,"(21.17955826,  92.1493784999999)",Private Donation,**,**,**,No,No,No,No
+717.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_11,MQ,Mosque,"(21.1803952,  92.1530876)",**,**,**,-1.0,No,Yes,No,Yes
+718.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_12,MQ,Mosque,"(21.17916984,  92.1503269699999)",Private Donation,**,**,**,No,No,No,No
+719.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_1,MQ,Mosque,"(21.1823126399999,  92.1356508599999)",Private Donation,**,**,**,No,No,No,No
+720.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_1,CF,Child Friendly Space,"(21.18168768,  92.13550442)",Local Government,**,**,**,No,No,No,No
+721.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_2,MQ,Mosque,"(21.1786865999999,  92.1370955)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+722.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_2,CF,Child Friendly Space,"(21.18075573,  92.13974306)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+723.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_3,MQ,Mosque,"(21.17746336,  92.14212874)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+724.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_1,MD,Madrassah,"(21.17739045,  92.1420981899999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+725.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_2,MD,Madrassah,"(21.18223902,  92.13544718)",Local Government,**,**,**,No,No,No,No
+726.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_4,MQ,Mosque,"(21.17671537,  92.14256195)",Private Donation,**,**,**,No,No,No,No
+727.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_3,MD,Madrassah,"(21.1769577899999,  92.13754516)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+728.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_5,MQ,Mosque,"(21.17690121,  92.1376398)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+729.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_6,MQ,Mosque,"(21.1790659,  92.13914821)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+730.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_FO_1,FO,Field Office,"(21.1768541799999,  92.1381861499999)",Non-governmental Organization (United Nations),MSF,**,-1.0,No,Yes,No,Yes
+733.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_19,MD,Madrassah,"(21.1913862,  92.1546565999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+734.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_35,MQ,Mosque,"(21.1916578,  92.1545517999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+735.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MD_20,MD,Madrassah,"(21.1893265,  92.1527401)",Private Donation,**,**,**,No,No,No,No
+736.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_36,MQ,Mosque,"(21.1896331999999,  92.1525888999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+737.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_37,MQ,Mosque,"(21.1919569999999,  92.1542110999999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+738.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_9,MQ,Mosque,"(21.1827831,  92.143697)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+739.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_FO_1,FO,Field Office,"(21.1851084999999,  92.1415810999999)",Non-governmental Organization (United Nations),IOM,**,-1.0,No,Yes,No,Yes
+740.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_10,MQ,Mosque,"(21.1802947099999,  92.1473761599999)",Non-governmental Organization (United Nations),ADOF,**,-1.0,No,Yes,No,Yes
+741.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_11,MQ,Mosque,"(21.1785928699999,  92.1477129)",Private Donation,**,**,**,No,No,No,No
+742.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_12,MQ,Mosque,"(21.1796417,  92.1471667)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+743.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_2,MD,Madrassah,"(21.1827519,  92.1443686)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+744.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_13,MQ,Mosque,"(21.1826794999999,  92.1444163999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+745.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_14,MQ,Mosque,"(21.18201153,  92.1461409399999)",Private Donation,**,**,**,No,No,No,No
+746.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_3,MD,Madrassah,"(21.1820054199999,  92.1416581299999)",Private Donation,**,**,**,No,No,No,No
+747.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_15,MQ,Mosque,"(21.1820708499999,  92.1456049699999)",Private Donation,**,**,**,No,No,No,No
+748.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_16,MQ,Mosque,"(21.18118438,  92.14363604)",Local Government,**,**,**,No,No,No,No
+749.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_CF_2,CF,Child Friendly Space,"(21.18160224,  92.1423042299999)",Non-governmental Organization (United Nations),SaveTheChildren Unicef,-1.0,**,Yes,No,No,Yes
+750.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_17,MQ,Mosque,"(21.1820227,  92.1426864999999)",**,**,**,**,No,No,No,No
+751.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_18,MQ,Mosque,"(21.1811286,  92.1462044999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+752.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_19,MQ,Mosque,"(21.1808249,  92.1452198)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+753.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_4,MD,Madrassah,"(21.18080696,  92.1452127999999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+754.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_20,MQ,Mosque,"(21.1817888799999,  92.14806575)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+755.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_21,MQ,Mosque,"(21.1812524,  92.1436991)",Private Donation,**,**,**,No,No,No,No
+756.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_22,MQ,Mosque,"(21.1807303599999,  92.1453344699999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+757.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_23,MQ,Mosque,"(21.1807363,  92.1454305)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+758.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_24,MQ,Mosque,"(21.1809833999999,  92.1451756)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+759.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_25,MQ,Mosque,"(21.18460559,  92.1400059799999)",Non-governmental Organization (United Nations),AlMidaadFoundation,**,-1.0,No,Yes,No,Yes
+760.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_26,MQ,Mosque,"(21.1810028999999,  92.1445027999999)",Private Donation,**,**,**,No,No,No,No
+761.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_27,MQ,Mosque,"(21.1858891,  92.1369317999999)",Non-governmental Organization (United Nations),AlMazrakulIslami,**,**,No,No,No,No
+788.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_29,MQ,Mosque,"(21.1845206399999,  92.15456034)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+789.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_CF_14,CF,Child Friendly Space,"(21.1808049999999,  92.1545437999999)",Non-governmental Organization (United Nations),SaveTheChildren,-1.0,**,Yes,No,No,Yes
+790.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_9,MD,Madrassah,"(21.18388856,  92.15333545)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+791.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_30,MQ,Mosque,"(21.18393923,  92.15334599)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+792.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_31,MQ,Mosque,"(21.18439478,  92.15370932)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+793.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_32,MQ,Mosque,"(21.18113281,  92.1542726899999)",Private Donation,**,**,**,No,No,No,No
+794.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_33,MQ,Mosque,"(21.18394487,  92.15388866)",Private Donation,**,**,**,No,No,No,No
+795.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_34,MQ,Mosque,"(21.18062149,  92.15521567)",Private Donation,**,**,**,No,No,No,No
+796.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_10,MD,Madrassah,"(21.1805264,  92.1553978999999)",**,**,**,**,No,No,No,No
+797.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_11,MD,Madrassah,"(21.18077375,  92.1563162599999)",**,**,**,-1.0,No,Yes,No,Yes
+798.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_35,MQ,Mosque,"(21.18051965,  92.15532353)",**,**,-1.0,**,Yes,No,No,Yes
+799.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MD_12,MD,Madrassah,"(21.18052299,  92.1553923099999)",**,**,**,**,No,No,No,No
+800.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_13,MQ,Mosque,"(21.17957832,  92.1515979499999)",Private Donation,**,**,**,No,No,No,No
+801.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_14,MQ,Mosque,"(21.18074276,  92.1487336)",Private Donation,**,**,**,No,No,No,No
+802.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_5,MD,Madrassah,"(21.17873677,  92.15060062)",Self Made,**,**,**,No,No,No,No
+803.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_15,MQ,Mosque,"(21.17894077,  92.15556795)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+804.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_16,MQ,Mosque,"(21.17854569,  92.15503696)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+805.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_6,MD,Madrassah,"(21.1785424999999,  92.1546882899999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+806.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_7,MD,Madrassah,"(21.17852982,  92.15465197)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+807.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_17,MQ,Mosque,"(21.17868459,  92.1546661999999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+808.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_18,MQ,Mosque,"(21.17879298,  92.15321749)",Local Government,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+809.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_19,MQ,Mosque,"(21.1817540499999,  92.1526542799999)",Private Donation,**,**,**,No,No,No,No
+810.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_20,MQ,Mosque,"(21.17985053,  92.14832398)",Private Donation,**,**,**,No,No,No,No
+811.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_8,MD,Madrassah,"(21.1798200399999,  92.14834591)",Private Donation,**,**,**,No,No,No,No
+812.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_21,MQ,Mosque,"(21.183138,  92.1476617)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+813.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_CF_2,CF,Child Friendly Space,"(21.18179608,  92.1522648699999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+814.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_9,MD,Madrassah,"(21.18019992,  92.1511201999999)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+815.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_10,MD,Madrassah,"(21.1805391,  92.1508814999999)",Private Donation,**,**,**,No,No,No,No
+816.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_22,MQ,Mosque,"(21.1810951,  92.1509887999999)",Local Government,**,**,-1.0,No,Yes,No,Yes
+817.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_7,MQ,Mosque,"(21.1770395299999,  92.1382360199999)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+818.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_4,MD,Madrassah,"(21.1792926299999,  92.13570959)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+819.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_8,MQ,Mosque,"(21.1790826999999,  92.1395315)",Private Donation,**,**,**,No,No,No,No
+820.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_9,MQ,Mosque,"(21.1794976999999,  92.1392348899999)",Private Donation,**,**,**,No,No,No,No
+821.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_10,MQ,Mosque,"(21.1820173099999,  92.1395540999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+822.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_11,MQ,Mosque,"(21.1795791,  92.139177)",Private Donation,**,**,**,No,No,No,No
+823.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_12,MQ,Mosque,"(21.1800651,  92.1363855999999)",Private Donation,**,**,**,No,No,No,No
+824.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_13,MQ,Mosque,"(21.1797852,  92.1398815999999)",Private Donation,**,**,**,No,No,No,No
+825.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_14,MQ,Mosque,"(21.1802077,  92.1370814)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+826.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_15,MQ,Mosque,"(21.1811715599999,  92.1409269499999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+827.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_16,MQ,Mosque,"(21.1801667999999,  92.1414386)",Private Donation,**,**,**,No,No,No,No
+828.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_3,CF,Child Friendly Space,"(21.1789379999999,  92.1377142)",Non-governmental Organization (United Nations),Brac,-1.0,-1.0,Yes,Yes,Yes,Yes
+829.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_4,CF,Child Friendly Space,"(21.1789966,  92.1408959999999)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+830.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_5,CF,Child Friendly Space,"(21.1793994,  92.1413411999999)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+831.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_5,MD,Madrassah,"(21.18019289,  92.1402668)",Local Government,**,**,**,No,No,No,No
+832.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_17,MQ,Mosque,"(21.18009277,  92.1404841199999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+833.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_18,MQ,Mosque,"(21.17930943,  92.14220219)",Self Made,**,**,**,No,No,No,No
+834.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_19,MQ,Mosque,"(21.17838386,  92.1408937199999)",Local Government,**,**,**,No,No,No,No
+835.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_20,MQ,Mosque,"(21.17588757,  92.14276795)",Local Government,**,**,-1.0,No,Yes,No,Yes
+836.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_21,MQ,Mosque,"(21.1757135199999,  92.14012757)",Private Donation,**,**,**,No,No,No,No
+837.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_6,MD,Madrassah,"(21.1782803999999,  92.1388509399999)",Private Donation,**,**,**,No,No,No,No
+838.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_22,MQ,Mosque,"(21.17571114,  92.14210436)",Local Government,**,**,**,No,No,No,No
+839.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_7,MD,Madrassah,"(21.17575593,  92.14264971)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+840.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_CF_6,CF,Child Friendly Space,"(21.17646218,  92.1426929699999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+841.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_23,MQ,Mosque,"(21.1784193,  92.1401575999999)",Private Donation,**,**,**,No,No,No,No
+842.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_24,MQ,Mosque,"(21.1746004399999,  92.1420738099999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+843.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_25,MQ,Mosque,"(21.1791313899999,  92.13789744)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+844.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_26,MQ,Mosque,"(21.17838514,  92.1409860899999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+845.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_27,MQ,Mosque,"(21.17995406,  92.1380903)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+846.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_28,MQ,Mosque,"(21.1753913999999,  92.1394284699999)",Private Donation,**,**,**,No,No,No,No
+847.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_29,MQ,Mosque,"(21.17834805,  92.1388779199999)",Private Donation,**,**,**,No,No,No,No
+848.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_30,MQ,Mosque,"(21.1751550699999,  92.14070212)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+849.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_31,MQ,Mosque,"(21.1760680199999,  92.1411475999999)",Private Donation,**,**,**,No,No,No,No
+850.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_32,MQ,Mosque,"(21.17505351,  92.1402941199999)",**,**,**,**,No,No,No,No
+851.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_8,MD,Madrassah,"(21.17495637,  92.14027548)",**,**,**,**,No,No,No,No
+852.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_DC_1,DC,Distribution Center,"(21.17405983,  92.1392182)",Non-governmental Organization (United Nations),RedCrescentSociety,**,-1.0,No,Yes,No,Yes
+853.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_9,MD,Madrassah,"(21.1761201099999,  92.1388611099999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+854.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_33,MQ,Mosque,"(21.17627757,  92.1389012799999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+922.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_5,MD,Madrassah,"(21.18483359,  92.13855243)",Private Donation,**,**,**,No,No,No,No
+923.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_28,MQ,Mosque,"(21.18484236,  92.13860375)",Private Donation,**,**,**,No,No,No,No
+924.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_6,MD,Madrassah,"(21.18369694,  92.1404923)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+925.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_7,MD,Madrassah,"(21.1838508499999,  92.14067325)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+957.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_36,MQ,Mosque,"(21.18170958,  92.1539539599999)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+958.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_37,MQ,Mosque,"(21.1823225499999,  92.15357344)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+959.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_23,MQ,Mosque,"(21.18147387,  92.15006854)",,**,**,**,No,No,No,No
+960.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_24,MQ,Mosque,"(21.1809038399999,  92.15275748)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+961.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_25,MQ,Mosque,"(21.1805501099999,  92.1517013699999)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+962.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MD_11,MD,Madrassah,"(21.18150912,  92.1506048499999)",**,**,**,-1.0,No,Yes,No,Yes
+963.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_26,MQ,Mosque,"(21.18161891,  92.15070348)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+964.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_WF_1,WF,Women's Friendly Space,"(21.1792723999999,  92.1434632999999)",Non-governmental Organization (United Nations),UNFPA,**,**,No,No,No,No
+965.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_10,MD,Madrassah,"(21.1825525799999,  92.1375021599999)",Private Donation,**,**,**,No,No,No,No
+966.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_34,MQ,Mosque,"(21.1741299599999,  92.1403037099999)",**,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+967.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_35,MQ,Mosque,"(21.1764876,  92.1438715999999)",Private Donation,**,**,**,No,No,No,No
+968.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_DC_2,DC,Distribution Center,"(21.17434197,  92.1407444299999)",Non-governmental Organization (United Nations),Other,**,-1.0,No,Yes,No,Yes
+969.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_36,MQ,Mosque,"(21.1829317999999,  92.1385262)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+970.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MD_11,MD,Madrassah,"(21.17571942,  92.14021821)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+971.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_37,MQ,Mosque,"(21.1797393999999,  92.1428151)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+972.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_38,MQ,Mosque,"(21.1796346,  92.142865)",Private Donation,**,**,**,No,No,No,No
+1012.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 18,CXB-215,C18_MQ_38,MQ,Mosque,"(21.19476552,  92.14662382)",Private Donation,**,**,**,No,No,No,No
+1013.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_2,MQ,Mosque,"(21.2036239299999,  92.1433251899999)",**,**,**,**,No,No,No,No
+1014.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_3,MQ,Mosque,"(21.204094,  92.1419798999999)",Private Donation,**,**,**,No,No,No,No
+1015.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_1,MD,Madrassah,"(21.20442216,  92.1442780099999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1016.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_4,MQ,Mosque,"(21.2044899399999,  92.14412511)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1017.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_1,CF,Child Friendly Space,"(21.2052318,  92.1419444999999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1018.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_2,CF,Child Friendly Space,"(21.2056858999999,  92.1449420999999)",**,**,**,**,No,No,No,No
+1019.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_FO_1,FO,Field Office,"(21.2056295,  92.1450439)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+1020.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MQ_29,MQ,Mosque,"(21.1837346199999,  92.14326284)",**,**,**,-1.0,No,Yes,No,Yes
+1021.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 19,CXB-219,C19_MD_8,MD,Madrassah,"(21.1839099,  92.1433779999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1022.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 20,CXB-216,C20_MQ_1,MQ,Mosque,"(21.1868354799999,  92.1433392099999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1023.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 20,CXB-216,C20_MD_1,MD,Madrassah,"(21.1867965699999,  92.1433236)",Private Donation,**,**,**,No,No,No,No
+1024.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_1,MQ,Mosque,"(21.1917885999999,  92.1441216)",Private Donation,**,**,**,No,No,No,No
+1025.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_WF_1,WF,Women's Friendly Space,"(21.1931714999999,  92.1450739999999)",Non-governmental Organization (United Nations),SaveTheChildren,**,**,No,No,No,No
+1026.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_2,MQ,Mosque,"(21.19167359,  92.1422975299999)",**,**,**,-1.0,No,Yes,No,Yes
+1027.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_CF_1,CF,Child Friendly Space,"(21.1915719,  92.1422615999999)",Non-governmental Organization (United Nations),Other,**,-1.0,No,Yes,No,Yes
+1028.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_3,MQ,Mosque,"(21.1922260099999,  92.14499517)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1029.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_CF_2,CF,Child Friendly Space,"(21.1966523199999,  92.1471444)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+1030.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_WF_2,WF,Women's Friendly Space,"(21.19658928,  92.14708803)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+1031.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_WF_3,WF,Women's Friendly Space,"(21.1976732,  92.1464713299999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1032.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_4,MQ,Mosque,"(21.19729733,  92.14730061)",Private Donation,**,**,**,No,No,No,No
+1033.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MD_1,MD,Madrassah,"(21.1971357699999,  92.14739043)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1034.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_DC_1,DC,Distribution Center,"(21.19913388,  92.14593322)",Non-governmental Organization (United Nations),RedCrescentSociety UNHCR,**,**,No,No,No,No
+1035.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_5,MQ,Mosque,"(21.19811908,  92.1459088999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1036.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_CF_3,CF,Child Friendly Space,"(21.2007256499999,  92.1449116299999)",,**,**,**,No,No,No,No
+1037.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_6,MQ,Mosque,"(21.2013783999999,  92.1457285)",Private Donation,**,**,**,No,No,No,No
+1038.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_7,MQ,Mosque,"(21.2000359,  92.1444922499999)",Private Donation,**,**,**,No,No,No,No
+1039.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_8,MQ,Mosque,"(21.20003051,  92.1459469899999)",Private Donation,**,**,**,No,No,No,No
+1040.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 17,CXB-212,C17_MQ_9,MQ,Mosque,"(21.2023403799999,  92.1446432399999)",Private Donation,**,**,**,No,No,No,No
+1075.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_5,MQ,Mosque,"(21.20523,  92.1439409)",Private Donation,**,**,**,No,No,No,No
+1076.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_6,MQ,Mosque,"(21.2058192,  92.1448397)",Private Donation,**,**,**,No,No,No,No
+1077.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_7,MQ,Mosque,"(21.20903435,  92.14195182)",**,**,-1.0,**,Yes,No,No,Yes
+1078.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_3,CF,Child Friendly Space,"(21.2083836,  92.1422890999999)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+1079.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_8,MQ,Mosque,"(21.2100891199999,  92.1458602999999)",Non-governmental Organization (United Nations),Oxfam,**,**,No,No,No,No
+1080.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_9,MQ,Mosque,"(21.21086379,  92.1407802699999)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+1081.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_DC_1,DC,Distribution Center,"(21.2060412999999,  92.1413512999999)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1082.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_DC_2,DC,Distribution Center,"(21.20663682,  92.1469400799999)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+1083.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_10,MQ,Mosque,"(21.20795138,  92.1419919399999)",Private Donation,**,**,**,No,No,No,No
+1084.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_IH_1,IH,Info Hub/ point/desk,"(21.2061531,  92.1421739999999)",Non-governmental Organization (United Nations),Brac UNHCR,**,**,No,No,No,No
+1085.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CC_1,CC,Community Centre,"(21.2076609299999,  92.1406272899999)",Non-governmental Organization (United Nations),HelpAgeInternational,**,**,No,No,No,No
+1086.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_11,MQ,Mosque,"(21.21111278,  92.1428535299999)",Private Donation,**,**,**,No,No,No,No
+1087.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_2,MD,Madrassah,"(21.2109008,  92.1429190199999)",Private Donation,**,**,**,No,No,No,No
+1088.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_12,MQ,Mosque,"(21.21284676,  92.1454960399999)",**,**,**,**,No,No,No,No
+1089.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_4,CF,Child Friendly Space,"(21.2087107,  92.1451535)",Non-governmental Organization (United Nations),ACF UNHCR,**,**,No,No,No,No
+1090.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_FO_2,FO,Field Office,"(21.2087761999999,  92.1449685)",Non-governmental Organization (United Nations),ACF,**,**,No,No,No,No
+1091.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_13,MQ,Mosque,"(21.2106889,  92.1396928)",Private Donation,**,**,**,No,No,No,No
+1092.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_14,MQ,Mosque,"(21.20802124,  92.1431919399999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1093.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_15,MQ,Mosque,"(21.21414087,  92.14502432)",Private Donation,**,**,**,No,No,No,No
+1094.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_16,MQ,Mosque,"(21.2066325999999,  92.1448563999999)",Private Donation,**,**,**,No,No,No,No
+1095.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_3,MD,Madrassah,"(21.2066525,  92.144711)",Private Donation,**,**,**,No,No,No,No
+1096.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_17,MQ,Mosque,"(21.2127319099999,  92.14546905)",**,**,**,**,No,No,No,No
+1097.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_18,MQ,Mosque,"(21.2075728999999,  92.1439180999999)",Private Donation,**,**,**,No,No,No,No
+1098.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_19,MQ,Mosque,"(21.21099917,  92.1438989499999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1099.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_20,MQ,Mosque,"(21.2097123,  92.1417315599999)",Private Donation,**,**,**,No,No,No,No
+1100.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_FO_3,FO,Field Office,"(21.20970214,  92.14175672)",Non-governmental Organization (United Nations),Brac UNHCR,**,**,No,No,No,No
+1101.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_21,MQ,Mosque,"(21.2082416,  92.14525634)",Private Donation,**,**,**,No,No,No,No
+1102.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_22,MQ,Mosque,"(21.21078069,  92.14480648)",Private Donation,**,**,**,No,No,No,No
+1103.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_5,CF,Child Friendly Space,"(21.2058336999999,  92.145313)",**,**,-1.0,**,Yes,No,No,Yes
+1104.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_FO_4,FO,Field Office,"(21.20987346,  92.14392372)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+1105.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_23,MQ,Mosque,"(21.20576056,  92.14793143)",Private Donation,**,**,**,No,No,No,No
+1106.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_4,MD,Madrassah,"(21.20720199,  92.14592786)",Private Donation,**,**,**,No,No,No,No
+1107.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_1,CF,Child Friendly Space,"(21.20634366,  92.14873061)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+1108.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_1,MQ,Mosque,"(21.2086497899999,  92.1490683899999)",**,**,**,**,No,No,No,No
+1109.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_2,MQ,Mosque,"(21.2119091299999,  92.1469646099999)",Self Made,**,**,**,No,No,No,No
+1110.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_3,MQ,Mosque,"(21.2125694,  92.1477294)",Private Donation,**,**,**,No,No,No,No
+1111.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_3,MD,Madrassah,"(21.21173753,  92.14713347)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1112.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_4,MQ,Mosque,"(21.2079646,  92.14684855)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1113.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_5,MQ,Mosque,"(21.20947066,  92.1463538999999)",**,**,**,**,No,No,No,No
+1114.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_6,MQ,Mosque,"(21.2070495,  92.14709351)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1115.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CC_1,CC,Community Centre,"(21.20636838,  92.1475958799999)",**,**,**,**,No,No,No,No
+1116.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_7,MQ,Mosque,"(21.20713307,  92.14703368)",Private Donation,**,**,**,No,No,No,No
+1117.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_8,MQ,Mosque,"(21.21201181,  92.1484606199999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1118.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_4,MD,Madrassah,"(21.21212671,  92.14861627)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1119.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_9,MQ,Mosque,"(21.2086162099999,  92.1503717899999)",Local Government,**,**,**,No,No,No,No
+1120.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_10,MQ,Mosque,"(21.20639895,  92.14792167)",**,**,-1.0,**,Yes,No,No,Yes
+1121.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_11,MQ,Mosque,"(21.2126282999999,  92.1486534999999)",Private Donation,**,**,**,No,No,No,No
+1122.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_12,MQ,Mosque,"(21.20772141,  92.1478315899999)",**,**,**,**,No,No,No,No
+1123.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_13,MQ,Mosque,"(21.20673336,  92.14846778)",Private Donation,**,**,**,No,No,No,No
+1124.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_14,MQ,Mosque,"(21.20871809,  92.15068829)",**,**,**,**,No,No,No,No
+1125.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_5,MD,Madrassah,"(21.20886854,  92.1509498199999)",Private Donation,**,**,**,No,No,No,No
+1126.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_15,MQ,Mosque,"(21.2103852099999,  92.1485687699999)",**,**,**,**,No,No,No,No
+1127.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_16,MQ,Mosque,"(21.20788333,  92.1489026699999)",Private Donation,**,**,**,No,No,No,No
+1128.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_17,MQ,Mosque,"(21.2092221899999,  92.1518873499999)",**,**,**,-1.0,No,Yes,No,Yes
+1129.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_6,MD,Madrassah,"(21.2099894099999,  92.14914022)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1130.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_7,MD,Madrassah,"(21.2088847399999,  92.15204993)",**,**,**,**,No,No,No,No
+1131.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_18,MQ,Mosque,"(21.2088599699999,  92.1521702099999)",Private Donation,**,**,**,No,No,No,No
+1132.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_19,MQ,Mosque,"(21.2099462999999,  92.1490392999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1133.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_20,MQ,Mosque,"(21.20619973,  92.14917051)",Private Donation,**,**,**,No,No,No,No
+1134.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_21,MQ,Mosque,"(21.20894462,  92.1464553)",Private Donation,**,**,**,No,No,No,No
+1135.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_8,MD,Madrassah,"(21.20887029,  92.1465681699999)",Private Donation,**,**,**,No,No,No,No
+1136.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_22,MQ,Mosque,"(21.21111174,  92.14742194)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1137.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_23,MQ,Mosque,"(21.20619963,  92.15030642)",Private Donation,**,**,**,No,No,No,No
+1138.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_2,CF,Child Friendly Space,"(21.2115672,  92.1474874999999)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+1139.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_9,MD,Madrassah,"(21.2061547399999,  92.1502727499999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1140.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_24,MQ,Mosque,"(21.2087156,  92.1471638)",Private Donation,**,**,**,No,No,No,No
+1141.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_10,MD,Madrassah,"(21.2099526,  92.1499761)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1142.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_25,MQ,Mosque,"(21.2100101999999,  92.1499495999999)",Private Donation,**,**,**,No,No,No,No
+1143.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_3,CF,Child Friendly Space,"(21.2064765,  92.1498281599999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+1144.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_26,MQ,Mosque,"(21.2083590999999,  92.1478333)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1145.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_11,MD,Madrassah,"(21.2102974,  92.1499340999999)",Private Donation,**,**,**,No,No,No,No
+1146.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_27,MQ,Mosque,"(21.210422,  92.1497001999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1147.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_4,CF,Child Friendly Space,"(21.2084537,  92.1476583999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+1148.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_28,MQ,Mosque,"(21.20747408,  92.15004892)",**,**,**,**,No,No,No,No
+1149.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_12,MD,Madrassah,"(21.20557395,  92.14855276)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1150.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_FO_1,FO,Field Office,"(21.20987806,  92.15074422)",Local Government,**,**,**,No,No,No,No
+1151.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_5,CF,Child Friendly Space,"(21.20698047,  92.1500513)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+1152.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_29,MQ,Mosque,"(21.2078757799999,  92.1531749699999)",**,**,-1.0,**,Yes,No,No,Yes
+1153.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_30,MQ,Mosque,"(21.2071136,  92.1490132899999)",**,**,-1.0,**,Yes,No,No,Yes
+1154.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_31,MQ,Mosque,"(21.2094004699999,  92.1509842899999)",Private Donation,**,**,**,No,No,No,No
+1155.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_13,MD,Madrassah,"(21.2104657,  92.1510033999999)",Private Donation,**,**,**,No,No,No,No
+1156.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_32,MQ,Mosque,"(21.2097364,  92.1512543999999)",**,**,**,**,No,No,No,No
+1177.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_1,MQ,Mosque,"(21.219747,  92.1549519999999)",Private Donation,**,**,**,No,No,No,No
+1178.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_2,MQ,Mosque,"(21.21637313,  92.1626701499999)",**,**,**,**,No,No,No,No
+1179.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_3,MQ,Mosque,"(21.2058731,  92.1705948999999)",**,**,**,**,No,No,No,No
+1180.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_4,MQ,Mosque,"(21.1957267999999,  92.1718685999999)",Self Made,**,**,**,No,No,No,No
+1181.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_5,MQ,Mosque,"(21.1711458999999,  92.1483815999999)",Private Donation,**,**,**,No,No,No,No
+1182.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MD_1,MD,Madrassah,"(21.1861269999999,  92.1366859)",Private Donation,**,**,**,No,No,No,No
+1183.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_6,MQ,Mosque,"(21.1565251699999,  92.1439367199999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1184.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_CF_1,CF,Child Friendly Space,"(21.1634412999999,  92.1513072999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+1185.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_7,MQ,Mosque,"(21.15629702,  92.1528770599999)",**,**,**,**,No,No,No,No
+1186.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_8,MQ,Mosque,"(21.1576051099999,  92.1381226599999)",Private Donation,**,**,**,No,No,No,No
+1187.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_CF_2,CF,Child Friendly Space,"(21.1609647999999,  92.1516194999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+1188.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_9,MQ,Mosque,"(21.1566283199999,  92.14266739)",**,**,**,**,No,No,No,No
+1189.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_DC_1,DC,Distribution Center,"(21.1570813,  92.1526058)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1190.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_10,MQ,Mosque,"(21.1577028399999,  92.1526916899999)",Private Donation,**,**,**,No,No,No,No
+1191.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_11,MQ,Mosque,"(21.15602239,  92.14144955)",Private Donation,**,**,**,No,No,No,No
+1192.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MD_2,MD,Madrassah,"(21.06842319,  92.14449557)",Private Donation,**,**,**,No,No,No,No
+1193.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_12,MQ,Mosque,"(21.0683787,  92.14442499)",Private Donation,**,**,**,No,No,No,No
+1194.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_24,MQ,Mosque,"(21.20338147,  92.1465573199999)",Private Donation,**,**,**,No,No,No,No
+1195.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_25,MQ,Mosque,"(21.2043486399999,  92.14725319)",Private Donation,**,**,**,No,No,No,No
+1196.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_33,MQ,Mosque,"(21.2064498999999,  92.1532545)",**,**,**,**,No,No,No,No
+1197.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_34,MQ,Mosque,"(21.2079482,  92.1520081999999)",Private Donation,**,**,**,No,No,No,No
+1198.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_35,MQ,Mosque,"(21.2067444,  92.1510035)",Private Donation,**,**,**,No,No,No,No
+1199.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_36,MQ,Mosque,"(21.208026,  92.1493221)",Private Donation,**,**,**,No,No,No,No
+1292.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_11,MQ,Mosque,"(21.21330783,  92.1656885799999)",Private Donation,**,**,**,No,No,No,No
+1293.0,Coxs_Bazar,Ukhia,Raja Palong,Refugee Camp,Kutupalong RC,CXB-221,KRC_MQ_12,MQ,Mosque,"(21.2124259,  92.16532352)",Local Government,**,**,-1.0,No,Yes,No,Yes
+1294.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MD_14,MD,Madrassah,"(21.19112333,  92.1602616699999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1295.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_MQ_29,MQ,Mosque,"(21.19120667,  92.1601799999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1296.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 9,CXB-213,C9_IH_1,IH,Info Hub/ point/desk,"(21.1904583299999,  92.16141833)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+1297.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_38,MQ,Mosque,"(21.19067,  92.1541883299999)",Private Donation,**,**,**,No,No,No,No
+1298.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_39,MQ,Mosque,"(21.1908533299999,  92.1528849999999)",Private Donation,**,**,**,No,No,No,No
+1299.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_40,MQ,Mosque,"(21.190815,  92.15221667)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1300.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 10,CXB-214,C10_MQ_41,MQ,Mosque,"(21.19050667,  92.152955)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1301.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_13,MD,Madrassah,"(21.19664667,  92.15991167)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+1302.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_39,MQ,Mosque,"(21.1967666699999,  92.1589066699999)",Private Donation,**,**,**,No,No,No,No
+1303.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MQ_40,MQ,Mosque,"(21.1964,  92.159345)",Private Donation,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+1304.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_CF_9,CF,Child Friendly Space,"(21.19679667,  92.1591899999999)",Non-governmental Organization (United Nations),Brac,**,**,No,No,No,No
+1305.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8W,CXB-211,C8W_MD_14,MD,Madrassah,"(21.19677167,  92.159035)",Private Donation,**,**,**,No,No,No,No
+1306.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_5,MD,Madrassah,"(21.2033691,  92.1467850399999)",Private Donation,**,**,**,No,No,No,No
+1307.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_CF_6,CF,Child Friendly Space,"(21.2025194699999,  92.1405597699999)",Non-governmental Organization (United Nations),Other,**,**,No,No,No,No
+1308.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_26,MQ,Mosque,"(21.2118579999999,  92.1400358199999)",Self Made,**,-1.0,-1.0,Yes,Yes,Yes,Yes
+1309.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_27,MQ,Mosque,"(21.20358667,  92.14686333)",Private Donation,**,**,**,No,No,No,No
+1310.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_WF_1,WF,Women's Friendly Space,"(21.21400333,  92.14354833)",Non-governmental Organization (United Nations),Mukti,**,**,No,No,No,No
+1311.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MQ_28,MQ,Mosque,"(21.20455,  92.14568167)",Private Donation,**,**,**,No,No,No,No
+1312.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 4,CXB-206,C4_MD_6,MD,Madrassah,"(21.2035166699999,  92.14672833)",**,**,**,**,No,No,No,No
+1313.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_CF_6,CF,Child Friendly Space,"(21.2081948999999,  92.1526163)",Non-governmental Organization (United Nations),Brac Ukaid Unicef,**,**,No,No,No,No
+1314.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_37,MQ,Mosque,"(21.20733724,  92.1526664099999)",Private Donation,**,**,**,No,No,No,No
+1315.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_38,MQ,Mosque,"(21.2078403,  92.1511495)",Private Donation,**,**,**,No,No,No,No
+1316.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MQ_39,MQ,Mosque,"(21.20752415,  92.15175266)",Private Donation,**,**,**,No,No,No,No
+1317.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_14,MD,Madrassah,"(21.20738162,  92.15157449)",Private Donation,**,**,**,No,No,No,No
+1318.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_DC_1,DC,Distribution Center,"(21.2071704899999,  92.1504910299999)",Non-governmental Organization (United Nations),WFP,**,**,No,No,No,No
+1319.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_MD_15,MD,Madrassah,"(21.2072727,  92.1499819)",Private Donation,**,**,**,No,No,No,No
+1320.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 3,CXB-205,C3_IH_1,IH,Info Hub/ point/desk,"(21.2076844,  92.1492997)",Non-governmental Organization (United Nations),Brac UNHCR,-1.0,**,Yes,No,No,Yes
+1321.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_30,MQ,Mosque,"(21.2023818999999,  92.1543216999999)",Private Donation,**,**,**,No,No,No,No
+1322.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_16,MD,Madrassah,"(21.202399,  92.1543685999999)",Private Donation,**,**,**,No,No,No,No
+1323.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_CF_1,CF,Child Friendly Space,"(21.202221,  92.1546366999999)",Non-governmental Organization (United Nations),Brac,-1.0,**,Yes,No,No,Yes
+1324.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MD_17,MD,Madrassah,"(21.202155,  92.153755)",**,**,**,**,No,No,No,No
+1325.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_31,MQ,Mosque,"(21.2020149999999,  92.153745)",**,**,**,**,No,No,No,No
+1326.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 5,CXB-209,C5_MQ_32,MQ,Mosque,"(21.20079333,  92.155175)",**,**,**,-1.0,No,Yes,No,Yes
+1327.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_21,MQ,Mosque,"(21.2029116199999,  92.15585645)",Private Donation,**,**,**,No,No,No,No
+1328.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_14,MD,Madrassah,"(21.2028795,  92.15583187)",Private Donation,**,**,**,No,No,No,No
+1329.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_22,MQ,Mosque,"(21.2066009999999,  92.1536468999999)",Private Donation,**,**,**,No,No,No,No
+1330.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MD_15,MD,Madrassah,"(21.2027202,  92.1547041)",Private Donation,**,**,**,No,No,No,No
+1331.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 6,CXB-208,C6_MQ_23,MQ,Mosque,"(21.2027728,  92.1547285)",Private Donation,**,**,**,No,No,No,No
+1332.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_36,MQ,Mosque,"(21.1984299999999,  92.16288833)",Private Donation,**,**,**,No,No,No,No
+1333.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_37,MQ,Mosque,"(21.19658833,  92.1599583299999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1334.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_38,MQ,Mosque,"(21.19679167,  92.1603516699999)",Private Donation,**,**,**,No,No,No,No
+1335.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_39,MQ,Mosque,"(21.196355,  92.1601799999999)",Private Donation,**,**,**,No,No,No,No
+1336.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_40,MQ,Mosque,"(21.196925,  92.1610349999999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1337.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_DC_2,DC,Distribution Center,"(21.19094167,  92.16257833)",Local Government,**,**,-1.0,No,Yes,No,Yes
+1338.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_CF_17,CF,Child Friendly Space,"(21.1967733299999,  92.16142833)",Non-governmental Organization (United Nations),Brac,**,-1.0,No,Yes,No,Yes
+1339.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 8E,CXB-210,C8E_MQ_41,MQ,Mosque,"(21.1969366699999,  92.16185833)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1340.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_IH_1,IH,Info Hub/ point/desk,"(21.20852833,  92.15420833)",Non-governmental Organization (United Nations),Mukti WFP,**,**,No,No,No,No
+1341.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_7,MD,Madrassah,"(21.20898167,  92.1544583299999)",Private Donation,**,**,**,No,No,No,No
+1342.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 2W,CXB-204,C2W_MD_8,MD,Madrassah,"(21.20907,  92.154475)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1343.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_38,MQ,Mosque,"(21.1827468,  92.15429253)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1344.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_39,MQ,Mosque,"(21.1831523699999,  92.1543389499999)",Private Donation,**,**,**,No,No,No,No
+1345.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 11,CXB-217,C11_MQ_40,MQ,Mosque,"(21.18265132,  92.1549141999999)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1346.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 12,CXB-218,C12_MQ_27,MQ,Mosque,"(21.18175219,  92.14906019)",Private Donation,**,-1.0,**,Yes,No,No,Yes
+1347.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_29,MQ,Mosque,"(21.21582,  92.15506833)",Private Donation,**,**,**,No,No,No,No
+1348.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_6,CF,Child Friendly Space,"(21.216705,  92.15661)",Non-governmental Organization (United Nations),Unicef,**,**,No,No,No,No
+1349.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_CF_7,CF,Child Friendly Space,"(21.21674833,  92.15706333)",Non-governmental Organization (United Nations),Unicef,**,-1.0,No,Yes,No,Yes
+1350.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 1E,CXB-201,C1E_MQ_30,MQ,Mosque,"(21.2151216699999,  92.1549083299999)",Private Donation,**,**,**,No,No,No,No
+1351.0,Coxs_Bazar,Ukhia,Palong Khali,Spontaneous Site,Camp 13,CXB-220,C13_MQ_39,MQ,Mosque,"(21.17938667,  92.1355633299999)",Private Donation,**,**,-1.0,No,Yes,No,Yes
+1355.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_13,MQ,Mosque,"(20.95051991,  92.2509776299999)",**,**,**,**,No,No,No,No
+1356.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MD_3,MD,Madrassah,"(20.9457151,  92.2544232999999)",Private Donation,**,**,**,No,No,No,No
+1357.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_14,MQ,Mosque,"(20.9435734499999,  92.2542562499999)",**,**,**,**,No,No,No,No
+1358.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_CF_3,CF,Child Friendly Space,"(20.94375978,  92.25477076)",Non-governmental Organization (United Nations),UNHCR,**,**,No,No,No,No
+1359.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_15,MQ,Mosque,"(20.9446774,  92.25444469)",Private Donation,**,**,**,No,No,No,No
+1360.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_16,MQ,Mosque,"(20.9458193,  92.2543911)",Private Donation,**,**,**,No,No,No,No
+1361.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_17,MQ,Mosque,"(20.9467831199999,  92.2542306699999)",**,**,**,**,No,No,No,No
+1362.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_DC_2,DC,Distribution Center,"(20.95568549,  92.25558236)",Local Government,**,**,**,No,No,No,No
+1363.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_MQ_18,MQ,Mosque,"(20.9505648499999,  92.25094156)",Private Donation,**,**,**,No,No,No,No
+1364.0,Cox's Bazar,**,**,**,Out of camp boundary,CXB-999,OT_FO_1,FO,Field Office,"(21.0860366699999,  92.2005916699999)",Non-governmental Organization (United Nations),PulseBangladesh Unicef,**,**,No,No,No,No
